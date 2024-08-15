@@ -26,6 +26,8 @@ The approach involved several key steps:
 
 For a detailed description, refer to the [Paper](https://github.com/FOMUBAD-BORISTA-FONDI/QALD-Fin/tree/master/paper).
 
+## How to run the project
+
 ## Experimentation Environment
 
 - **Dataset Overview**: 
