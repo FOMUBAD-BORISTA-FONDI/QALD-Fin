@@ -1,0 +1,56 @@
+[
+    {
+        "id": "644bb6a2-7f2a-478f-86e2-1e4938ce6388",
+        "question": "What is the works count of the author who published AR interfacing with prototype 3D applications based on user-centered interactivity in the Comput. Aided Des. journal in 2010?",
+        "author_dblp_uri": "<https://dblp.org/pid/04/4652>",
+        "key": "worksCount"
+    },
+    {
+        "id": "f6975ba7-043e-4e7f-bb11-88d2d550496f",
+        "question": "How many publications does the author who published Information voyeurism: social impact of physically large displays on information privacy with Desney S. Tan, have?",
+        "author_dblp_uri": "<https://dblp.org/pid/c/MaryCzerwinski>",
+        "key": "worksCount"
+    },
+    {
+        "id": "bf55ffbe-32bc-4025-bcd2-503b8f0130f7",
+        "question": "How many papers does the company where the author of 'Neural Operators for Solving PDEs and Inverse Design' works have?",
+        "author_dblp_uri": "<https://dblp.org/pid/25/1529>",
+        "key": "worksCount"
+    },
+    {
+        "id": "d2954214-25b5-412a-8370-7beef7ad7100",
+        "question": "How many works does the author of What happens if you treat ordinal ratings as interval data? Human evaluations in NLP are even more under-powered than you think, published in EMNLP (1) in 2021, have?",
+        "author_dblp_uri": "<https://dblp.org/pid/75/5602>",
+        "key": "worksCount"
+    },
+    {
+        "id": "425f56f6-ef36-4994-aa71-3be68b7895bd",
+        "question": "How many total works does the author who contributed to the AAAI Fall Symposium: Dialog with Robots in 2010 have?",
+        "author_dblp_uri": "<https://dblp.org/pid/71/3442>",
+        "key": "worksCount"
+    },
+    {
+        "id": "349ee8ae-3dd1-42fc-84ae-93b3026af60d",
+        "question": "How many publications does the contributor who published Editorial: Trust, value systems and governance in collaborative networks with Luis M. Camarinha-Matos have?",
+        "author_dblp_uri": "<https://dblp.org/pid/65/1447>",
+        "key": "worksCount"
+    },
+    {
+        "id": "f51f3831-9c9a-44ce-a398-736680aa84c5",
+        "question": "How many publications does the contributor who published Natural User Interfaces for Adjustable Autonomy in Robot Control in the year 2015 have?",
+        "author_dblp_uri": "<https://dblp.org/pid/99/4449>",
+        "key": "worksCount"
+    },
+    {
+        "id": "075586a3-f800-4fd5-bb24-edfcc9621fa2",
+        "question": "What is the number of works of the author who published the paper 'Text Searching and Indexing' in the year 2006 with Thierry Lecroq from the University of Rouen - Normandy, France?",
+        "author_dblp_uri": "<https://dblp.org/pid/c/MCrochemore>",
+        "key": "worksCount"
+    },
+    {
+        "id": "5d308f81-e450-4954-bfcb-262ce4f099e7",
+        "question": "How many publications does the contributor who published Innovation, Openness, and Platform Control at Manag. Sci. 2018, have?",
+        "author_dblp_uri": "<https://dblp.org/pid/86/1689>",
+        "key": "worksCount"
+    }
+]

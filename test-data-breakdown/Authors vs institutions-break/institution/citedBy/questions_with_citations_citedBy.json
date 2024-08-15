@@ -1,0 +1,170 @@
+[
+    {
+        "id": "4d1bee00-977d-44f6-857e-3d494972b8b7",
+        "question": "How many citations have the publications of the institution where the creator of 'Array Layouts for Comparison-Based Searching' works been cited?",
+        "author_dblp_uri": "<https://dblp.org/pid/24/1769>",
+        "key": "institution_citedByCount"
+    },
+    {
+        "id": "a8299fe5-c92f-4000-b2a3-630962240d5a",
+        "question": "How many times are the publications from the affiliation of the author of 'On Convex Quadrangulations of Point Sets on the Plane' cited?",
+        "author_dblp_uri": "<https://dblp.org/pid/u/JorgeUrrutia>",
+        "key": "institution_citedByCount"
+    },
+    {
+        "id": "d172caf8-3aa5-4d01-a38d-1755d81d3114",
+        "question": "How many publication citations does the institution of the author who published 'Formal Specification and Static Checking of Gemplus' Electronic Purse Using ESC/Java' have?",
+        "author_dblp_uri": "<https://dblp.org/pid/76/6612>",
+        "key": "institution_citedByCount"
+    },
+    {
+        "id": "36b4a234-ba1f-4184-a264-9951623138bb",
+        "question": "What is the cited by count of the institution where the author of 'I contain multitudes: creativity and emergent narrative' published in the Creativity & Cognition journal in 2013?",
+        "author_dblp_uri": "<https://dblp.org/pid/a/RuthAylett>",
+        "key": "institution_citedByCount"
+    },
+    {
+        "id": "77f4111c-8d9e-456f-8672-b5fa35bcdae2",
+        "question": "What is the cited by count where the contributor of the article 'A Computationally Efficient Method for Nonparametric Modeling of Neural Spiking Activity with Point Processes' is affiliated?",
+        "author_dblp_uri": "<https://dblp.org/pid/39/6580>",
+        "key": "institution_citedByCount"
+    },
+    {
+        "id": "ca2d88ff-a1ea-4d80-959d-1052806c8e06",
+        "question": "What is the cited by count where the author of 'MultiS-Net: A high-capacity, packet-switched, multichannel, single-hop architecture and protocol for a local lightwave network' is affiliated?",
+        "author_dblp_uri": "<https://dblp.org/pid/86/3964>",
+        "key": "institution_citedByCount"
+    },
+    {
+        "id": "0bd862d3-91fb-49b1-b082-f7b76bd67d02",
+        "question": "How many publication citations does the academic institution of the contributor of 'Sensory substitution using tactile pin arrays: Human factors, technology and applications' have?",
+        "author_dblp_uri": "<https://dblp.org/pid/b/StephenABrewster>",
+        "key": "institution_citedByCount"
+    },
+    {
+        "id": "1301c2d6-054f-410f-90cf-d37fff2097ca",
+        "question": "What is the cited by count for the affiliation where the author of 'Understanding Federation: An Analytical Framework for the Interoperability of Social Networking Sites' is affiliated?",
+        "author_dblp_uri": "<https://dblp.org/pid/51/4343-1>",
+        "key": "institution_citedByCount"
+    },
+    {
+        "id": "d7154799-82c1-4348-b1e0-2099d268b92d",
+        "question": "How many publications citations does the institution in which the contributor of the Dominance and Incidence Structures with Applications to Stochastic Geometry and Mathematical Morphology paper is affiliated have?",
+        "author_dblp_uri": "<https://dblp.org/pid/56/2607>",
+        "key": "institution_citedByCount"
+    },
+    {
+        "id": "299d81c0-9f6d-48bc-a947-2bddb41bcd85",
+        "question": "How many publication citations does the institution of the author of 'Say EM' for Selecting Probabilistic Models for Logical Sequences have?",
+        "author_dblp_uri": "<https://dblp.org/pid/40/3793>",
+        "key": "institution_citedByCount"
+    },
+    {
+        "id": "6472244f-f0a6-4f09-b1c3-124e45dd1b06",
+        "question": "What is the cited by count where the contributor of the article 'Haskell 98: Syntax Reference' is affiliated?",
+        "author_dblp_uri": "<https://dblp.org/pid/j/SimonLPeytonJones>",
+        "key": "institution_citedByCount"
+    },
+    {
+        "id": "acd77525-805c-41a9-b8f1-a29a311e00cc",
+        "question": "How many citation counts are there for the institute in which the writer of 'MAC layer fairness in IEEE 802.11 DCF based Wireless Mesh Networks' is affiliated with?",
+        "author_dblp_uri": "<https://dblp.org/pid/20/4077>",
+        "key": "institution_citedByCount"
+    },
+    {
+        "id": "e1874916-8758-418f-befa-38172cdf894e",
+        "question": "What is the cited by count for the institution where Sepp Hochreiter is employed?",
+        "author_dblp_uri": "<https://dblp.org/pid/h/SeppHochreiter>",
+        "key": "institution_citedByCount"
+    },
+    {
+        "id": "e0e7a25e-a8d0-400c-9891-dfb2691d0bcd",
+        "question": "What is the number of publications cited by the affiliation of the author of the paper 'Concurrent dynamic logic'?",
+        "author_dblp_uri": "<https://dblp.org/pid/p/DavidPeleg>",
+        "key": "institution_citedByCount"
+    },
+    {
+        "id": "70515f8f-847e-4698-b6a3-f371ed6e669f",
+        "question": "How many publication citations does the institute of the author who published 'Current Trends in Logic Grammars' have?",
+        "author_dblp_uri": "<https://dblp.org/pid/d/VDahl>",
+        "key": "institution_citedByCount"
+    },
+    {
+        "id": "d136520f-9a90-459e-b0ce-eaceb1b6e9d7",
+        "question": "What is the cited by count where the contributor of 'High-Dimensional Covariance Decomposition into Sparse Markov and Independence Domains' is affiliated?",
+        "author_dblp_uri": "<https://dblp.org/pid/25/1529>",
+        "key": "institution_citedByCount"
+    },
+    {
+        "id": "8494ac71-b08a-4968-86ee-37b424bbbc6e",
+        "question": "How many publication citations does the institute of the author of 'Instruments of cognition: Use of citations and Web links in online teaching materials' have?",
+        "author_dblp_uri": "<https://dblp.org/pid/c/AnitaColeman>",
+        "key": "institution_citedByCount"
+    },
+    {
+        "id": "b881cc39-1224-4104-9f54-1a26a258c697",
+        "question": "How many publication citations does the academic institution of the writer of the article titled 'Superhedging and Dynamic Risk Measures under Volatility Uncertainty' have?",
+        "author_dblp_uri": "<https://dblp.org/pid/06/8186>",
+        "key": "institution_citedByCount"
+    },
+    {
+        "id": "0447b4fc-c81b-40ca-9d60-5ff507e22035",
+        "question": "What is the number of citation counts for the institution where the author of 'Smooth levels of detail' is affiliated?",
+        "author_dblp_uri": "<https://dblp.org/pid/s/DieterSchmalstieg>",
+        "key": "institution_citedByCount"
+    },
+    {
+        "id": "0f3f28bd-9cf3-425f-a5f6-22092c319b5b",
+        "question": "What is the cited by count of the author's institution who published 'Identifying Critical Contextual Design Cues Through a Machine Learning Approach'?",
+        "author_dblp_uri": "<https://dblp.org/pid/95/4954>",
+        "key": "institution_citedByCount"
+    },
+    {
+        "id": "f8c99760-4b84-48e8-a0e3-d4dd15297578",
+        "question": "What is the cited by count where the writer of the article 'An exploratory study to identify rogue seasonality in a steel company's supply network using spectral principal component analysis' is affiliated?",
+        "author_dblp_uri": "<https://dblp.org/pid/66/853>",
+        "key": "institution_citedByCount"
+    },
+    {
+        "id": "104a7fe5-7cdf-470e-83c4-2c5d6e475637",
+        "question": "How many publication citations does the academic institution of the author who published the paper 'Existence and Completeness of Solutions to Extended Projected Dynamical Systems and Sector-Bounded Projection-Based Controllers' have?",
+        "author_dblp_uri": "<https://dblp.org/pid/97/6480>",
+        "key": "institution_citedByCount"
+    },
+    {
+        "id": "19f5db43-2b8e-449d-8627-05dc8e49562d",
+        "question": "How many publication citations does the institution of the author of 'Econophysics: can physicists contribute to the science of economics?' have?",
+        "author_dblp_uri": "<https://dblp.org/pid/24/5927>",
+        "key": "institution_citedByCount"
+    },
+    {
+        "id": "6dba3309-52f8-4822-9787-0f2a41010227",
+        "question": "How many publications are cited by the institution to which the author of 'Blockchain Technology as a Regulatory Technology: From Code is Law to Law is Code' belongs?",
+        "author_dblp_uri": "<https://dblp.org/pid/51/4343-1>",
+        "key": "institution_citedByCount"
+    },
+    {
+        "id": "92444f70-d1a6-4dd6-a6a4-3c5e53a53e5b",
+        "question": "How many citations does the institute of the author of the article 'Are you Planning to Take a PhD?' have?",
+        "author_dblp_uri": "<https://dblp.org/pid/t/AslakTveito>",
+        "key": "institution_citedByCount"
+    },
+    {
+        "id": "3ff1f98d-b0fe-4f28-9c83-bd996f36298f",
+        "question": "What is the cited by count where the contributor of 'A Visualization Environment for the Space-Time-Cube' article is affiliated?",
+        "author_dblp_uri": "<https://dblp.org/pid/56/3402>",
+        "key": "institution_citedByCount"
+    },
+    {
+        "id": "d5ad75e7-5693-44e9-8478-d462dbb7e198",
+        "question": "How many publication citations does the institute of the writer of 'Balanced externalities and the Shapley value' have?",
+        "author_dblp_uri": "<https://dblp.org/pid/19/11122>",
+        "key": "institution_citedByCount"
+    },
+    {
+        "id": "3079300e-6032-4304-88bb-d063a65526a4",
+        "question": "What is the cited by count where the contributor of 'The Design and Evaluation of Interactivities in a Digital Library' article is affiliated?",
+        "author_dblp_uri": "<https://dblp.org/pid/c/AnitaColeman>",
+        "key": "institution_citedByCount"
+    }
+]

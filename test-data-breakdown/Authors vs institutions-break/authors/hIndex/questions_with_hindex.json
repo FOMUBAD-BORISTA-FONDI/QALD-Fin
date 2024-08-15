@@ -1,0 +1,128 @@
+[
+    {
+        "id": "dcaaa17b-adb0-487c-94cb-28106b14c003",
+        "question": "What is the hIndex of the contributor who worked on a contraction approach for efficient regulation of networked systems in 2016?",
+        "author_dblp_uri": "<https://dblp.org/pid/45/812>",
+        "key": "hindex"
+    },
+    {
+        "id": "20faa590-1d7c-4757-836f-646bdd4d01ab",
+        "question": "What is the hIndex of the author of A Sophisticated Privacy-Enhanced Yet Accountable Security Framework for Metropolitan Wireless Mesh Networks?",
+        "author_dblp_uri": "<https://dblp.org/pid/73/3673>",
+        "key": "hindex"
+    },
+    {
+        "id": "c016e2af-d954-49b9-b62e-b87608271973",
+        "question": "What is the hIndex of the author of ChucK: a programming language for on-the-fly, real-time audio synthesis and multimedia in ACM Multimedia 2004?",
+        "author_dblp_uri": "<https://dblp.org/pid/34/5591-2>",
+        "key": "hindex"
+    },
+    {
+        "id": "b08bbaab-6824-49cc-a7b6-a6ce60c6881e",
+        "question": "What is the hIndex of the author who published the paper 'Protein Structure Prediction Methods for Drug Design' in Briefings Bioinform.?",
+        "author_dblp_uri": "<https://dblp.org/pid/l/TLengauer>",
+        "key": "hindex"
+    },
+    {
+        "id": "65755af1-9b54-4530-b5f2-57940c5e6c8d",
+        "question": "What is the hIndex of the author of On Dependability Evaluation of Mesh-Connected Processors?",
+        "author_dblp_uri": "<https://dblp.org/pid/m/PrasantMohapatra>",
+        "key": "hindex"
+    },
+    {
+        "id": "09edcdf6-cfb1-43a3-835f-9eb42a92c31d",
+        "question": "What is the hIndex of the author of The Shape of Space?",
+        "author_dblp_uri": "<https://dblp.org/pid/48/5115>",
+        "key": "hindex"
+    },
+    {
+        "id": "211cbf84-60a7-4937-9af6-b1b7960b4199",
+        "question": "What is the hIndex of the author of Faster OWL Using Split Programs?",
+        "author_dblp_uri": "<https://dblp.org/pid/59/5618>",
+        "key": "hindex"
+    },
+    {
+        "id": "8ee6aa47-7136-4965-97a2-9b498e7f199d",
+        "question": "What is the hIndex of the author of SCIRun: A Scientific Programming Environment for Computational Steering?",
+        "author_dblp_uri": "<https://dblp.org/pid/80/2990>",
+        "key": "hindex"
+    },
+    {
+        "id": "78f9506b-fcee-41da-92ad-f8adfdaf33f7",
+        "question": "What is the hIndex of the author who published the paper titled Toward Continuous State-Space Regulation of Coupled Cyber-Physical Systems in Proc. IEEE in the year 2012?",
+        "author_dblp_uri": "<https://dblp.org/pid/78/6551>",
+        "key": "hindex"
+    },
+    {
+        "id": "48eb970a-e363-4402-8791-fccb2a992937",
+        "question": "What is the hIndex of the scholar working at the Interaction Lab, CA, USA and published Uncovering manifold structures in Robonaut's sensory-data state space in 2005?",
+        "author_dblp_uri": "<https://dblp.org/pid/99/4449>",
+        "key": "hindex"
+    },
+    {
+        "id": "cfdaae50-fce2-494b-b843-35f943e1c515",
+        "question": "What is the hIndex of the co-author working at EPFL and published A clustering approach to optimize online dictionary learning in ICASSP 2012?",
+        "author_dblp_uri": "<https://dblp.org/pid/p/FatihMuratPorikli>",
+        "key": "hindex"
+    },
+    {
+        "id": "4bf624d2-d7e8-471b-a99a-42859e88c84f",
+        "question": "What is the hIndex of the author of The Pyramid Match Kernel: Efficient Learning with Sets of Features?",
+        "author_dblp_uri": "<https://dblp.org/pid/57/4553>",
+        "key": "hindex"
+    },
+    {
+        "id": "1799ac4c-4af3-4b5e-b413-999860e1697e",
+        "question": "What is the hIndex of the author who published the paper 'Anti-periodic fractional boundary value problems' in 2011 at Comput. Math. Appl.?",
+        "author_dblp_uri": "<https://dblp.org/pid/33/1675>",
+        "key": "hindex"
+    },
+    {
+        "id": "725c80db-487e-42ca-ae70-8f3a93876e2a",
+        "question": "What is the hIndex of the author of ARMaDA: An Adaptive Application-sensitive Partitioning Framework for SAMR Applications?",
+        "author_dblp_uri": "<https://dblp.org/pid/p/ManishParashar>",
+        "key": "hindex"
+    },
+    {
+        "id": "740120ec-b1c7-4b9b-a548-a5d150e83a12",
+        "question": "What is the hIndex of the author of Predicting the perceived quality of online mathematics contributions from users' reputations published in CHI 2011?",
+        "author_dblp_uri": "<https://dblp.org/pid/91/3165>",
+        "key": "hindex"
+    },
+    {
+        "id": "61e0732e-ee06-449e-bbb6-0e52a27be2b0",
+        "question": "The scholar with a co-author at Microsoft Research and creator of the paper titled Designing emotionally sentient agents, has what hIndex?",
+        "author_dblp_uri": "<https://dblp.org/pid/c/MaryCzerwinski>",
+        "key": "hindex"
+    },
+    {
+        "id": "b5bccd5e-e2d1-4c85-8161-3970669beac4",
+        "question": "What is the hIndex of the author who published the paper 'Formal Verification of Context Aware Systems' in the SEBD conference in 2020?",
+        "author_dblp_uri": "<https://dblp.org/pid/49/3772>",
+        "key": "hindex"
+    },
+    {
+        "id": "0974dc8c-b4b7-4104-9a3d-28bbcf382dae",
+        "question": "What is the hIndex of the scholar working at Texas A&M University and published GIS as media? in 2001?",
+        "author_dblp_uri": "<https://dblp.org/pid/37/5735>",
+        "key": "hindex"
+    },
+    {
+        "id": "31e9de20-55a2-4e83-beff-06cae6603620",
+        "question": "The researcher with a co-author at Catholic University of Leuven, Belgium and creator of Equation-free modeling, hIndex, is?",
+        "author_dblp_uri": "<https://dblp.org/pid/47/6418>",
+        "key": "hindex"
+    },
+    {
+        "id": "56737924-b673-432c-9324-e7907ba1d27c",
+        "question": "What is the hIndex of the author of Aligning Two Convex Figures to Minimize Area or Perimeter?",
+        "author_dblp_uri": "<https://dblp.org/pid/c/OtfriedCheong>",
+        "key": "hindex"
+    },
+    {
+        "id": "713ddfb5-5714-4acf-9e4b-46926d34d28e",
+        "question": "What is the hIndex of the author who published the paper 'Visualization for exploration of spatial data' in the International Journal of Geographic Information Science in 1999 with Alan M. MacEachren?",
+        "author_dblp_uri": "<https://dblp.org/pid/56/3402>",
+        "key": "hindex"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id": "781cefe7-0c3a-41e5-aff4-1d6281ee36cb",
+        "question": "What is the i10Index of the writer with a co-author from University of Cambridge who published Pronunciation variants generation using SMT-inspired approaches in ICASSP 2011?",
+        "author_dblp_uri": "<https://dblp.org/pid/14/2303>",
+        "key": "i10index"
+    },
+    {
+        "id": "604f90fd-4f1c-4124-8693-8f382696475c",
+        "question": "What is the i10Index of the scholar affiliated with Georgia Institute of Technology, Atlanta, USA and contributed to the development of Configurable Objects in 1997?",
+        "author_dblp_uri": "<https://dblp.org/pid/03/6463>",
+        "key": "i10index"
+    },
+    {
+        "id": "a8835377-5183-4f00-a897-2092494cbf11",
+        "question": "What is the i10Index of the author who collaborated with Qiang Xiao on 'Stability of delayed inertial neural networks on time scales: A unified matrix-measure approach'?",
+        "author_dblp_uri": "<https://dblp.org/pid/24/647>",
+        "key": "i10index"
+    },
+    {
+        "id": "1ee378da-4088-4907-8dd3-a824ec71e093",
+        "question": "What is the i10Index of the contributor who wrote Providing adaptive support to the understanding of instructional material with Kurt VanLehn in IUI in 2001?",
+        "author_dblp_uri": "<https://dblp.org/pid/34/5056>",
+        "key": "i10index"
+    },
+    {
+        "id": "8cc63be1-edac-4783-8673-cfea5a6411a8",
+        "question": "What is the i10Index of the author who worked with Raj Reddy on Knowledge Guided Learning of Structural Descriptions in IJCAI 1977?",
+        "author_dblp_uri": "<https://dblp.org/pid/57/2926>",
+        "key": "i10index"
+    },
+    {
+        "id": "856a7585-bfb4-4306-99e1-c5bfcc7e6b8e",
+        "question": "What is the i10Index of the scholar associated with Microsoft Research and involved in the publication of Information voyeurism: social impact of physically large displays on information privacy in 2003?",
+        "author_dblp_uri": "<https://dblp.org/pid/c/MaryCzerwinski>",
+        "key": "i10index"
+    },
+    {
+        "id": "ae6fc73f-906b-470c-9de9-40e0909f1b6f",
+        "question": "What is the i10Index of the co-author working at the University of Central Florida and author of Natural User Interfaces for Adjustable Autonomy in Robot Control in the year 2015?",
+        "author_dblp_uri": "<https://dblp.org/pid/99/4449>",
+        "key": "i10index"
+    },
+    {
+        "id": "c8e5cd11-5a82-4143-9bc0-01651d8a9521",
+        "question": "What is the i10Index of the scholar working at Aalto University, Helsinki, Finland and published On analyzing and specifying concerns for data as a service in APSCC 2009?",
+        "author_dblp_uri": "<https://dblp.org/pid/d/SDustdar>",
+        "key": "i10index"
+    },
+    {
+        "id": "add7859b-0618-48e9-bffd-236adf7c6756",
+        "question": "What is the i10Index of the researcher associated with Vladimir Batagelj and creator of Analysis and visualization of large networks with program package Pajek in the Complex Adapt. Syst. Model. journal?",
+        "author_dblp_uri": "<https://dblp.org/pid/04/2661>",
+        "key": "i10index"
+    },
+    {
+        "id": "9c6da7ba-f902-42f2-beb6-c99a5c08bb59",
+        "question": "What is the i10Index of the contributor of 'Relating Structure and Dynamics in Organisation Models' in MABS in 2003?",
+        "author_dblp_uri": "<https://dblp.org/pid/41/631>",
+        "key": "i10index"
+    }
+]

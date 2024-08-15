@@ -1,0 +1,50 @@
+[
+    {
+        "id": "fbf9c001-ce32-4c29-82df-cc4875320424",
+        "question": "What is the citedBy count of the author who collaborated with Piero Fraternali on 'The Story of the IDEA Methodology'?",
+        "author_dblp_uri": "<https://dblp.org/pid/c/StefanoCeri>",
+        "key": "citedByCount"
+    },
+    {
+        "id": "eed16eb1-7a0a-479b-a4b0-a24b806396f4",
+        "question": "How many times has the author of Monte Carlo Localization and registration to prior data for outdoor navigation cited?",
+        "author_dblp_uri": "<https://dblp.org/pid/34/3601>",
+        "key": "citedByCount"
+    },
+    {
+        "id": "39a17388-347c-4aeb-9c37-64e99a6c2d0e",
+        "question": "How many publication citations does Ting Wang's co-author and author of Output privacy in data mining, have?",
+        "author_dblp_uri": "<https://dblp.org/pid/l/LingLiu>",
+        "key": "citedByCount"
+    },
+    {
+        "id": "dd081370-88e1-4612-b0bf-e2e2159685c8",
+        "question": "How many publication citations does Xiaoping Wang's co-author and author of Projection method III: Spatial discretization on the staggered grid, have?",
+        "author_dblp_uri": "<https://dblp.org/pid/06/9390>",
+        "key": "citedByCount"
+    },
+    {
+        "id": "be5fdf12-fa72-4637-840c-3667070d700b",
+        "question": "How many times has the author of 'Feature Detection for Haptic Exploration with Robotic Fingers' in the Int. J. Robotics Res. journal in 2001, been cited?",
+        "author_dblp_uri": "<https://dblp.org/pid/22/2757>",
+        "key": "citedByCount"
+    },
+    {
+        "id": "ee480e90-b032-4407-8e93-649ae444102e",
+        "question": "How many times has the author of What is a flag for? Social media reporting tools and the vocabulary of complaint been cited?",
+        "author_dblp_uri": "<https://dblp.org/pid/79/2869>",
+        "key": "citedByCount"
+    },
+    {
+        "id": "044bf964-4a61-44e9-881c-d92365ff9b79",
+        "question": "How many publication citations does Lyle H. Ungar's co-author and author of Dynamic Social Choice with Evolving Preferences, have?",
+        "author_dblp_uri": "<https://dblp.org/pid/p/DavidCParkes>",
+        "key": "citedByCount"
+    },
+    {
+        "id": "e1e54be8-d2d1-4d1c-8749-9f972431bdca",
+        "question": "How many publication citations does Trevor Darrell's co-author and author of Fast Contour Matching Using Approximate Earth Mover's Distance, have?",
+        "author_dblp_uri": "<https://dblp.org/pid/57/4553>",
+        "key": "citedByCount"
+    }
+]

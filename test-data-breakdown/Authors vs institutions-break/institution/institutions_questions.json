@@ -1,0 +1,1087 @@
+[
+    {
+        "id": "4d1bee00-977d-44f6-857e-3d494972b8b7",
+        "question": "How many citations have the publications of the institution where the creator of 'Array Layouts for Comparison-Based Searching' works been cited?",
+        "author_dblp_uri": "<https://dblp.org/pid/24/1769>"
+    },
+    {
+        "id": "a8299fe5-c92f-4000-b2a3-630962240d5a",
+        "question": "How many times are the publications from the affiliation of the author of 'On Convex Quadrangulations of Point Sets on the Plane' cited?",
+        "author_dblp_uri": "<https://dblp.org/pid/u/JorgeUrrutia>"
+    },
+    {
+        "id": "509a5e07-b914-41dd-ad01-71bf8dbee85d",
+        "question": "How many papers does the academic institution of the writer who published 'The Master-Slave Splitting Extended to Power Flow Problems on Integrated Networks with an Unbalanced Distribution Network' have?",
+        "author_dblp_uri": "<https://dblp.org/pid/128/5115>"
+    },
+    {
+        "id": "e9d1e85c-fde5-471c-a42f-a272a01a18bc",
+        "question": "What is the type of organization where the author of 'How Does the Observation Strategy Influence the Correctness of Alerting Services?' work?",
+        "author_dblp_uri": "<https://dblp.org/pid/h/AnnikaHinze>"
+    },
+    {
+        "id": "1395f2f2-6fa8-4dcc-ace6-7060575f6075",
+        "question": "What is the type of institution where the author of the paper 'Fusion of short-wave infrared and visible near-infrared WorldView-3 data' works?",
+        "author_dblp_uri": "<https://dblp.org/pid/97/2816>"
+    },
+    {
+        "id": "d011495a-0d72-4b9c-b5dd-38b8d6b8d41f",
+        "question": "What is the number of publications for the affiliation of the writer who published 'Fast and Accurate Optimization of Metasurfaces with Gradient Descent and the Woodbury Matrix Identity' in CoRR in 2021?",
+        "author_dblp_uri": "<https://dblp.org/pid/119/0594>"
+    },
+    {
+        "id": "2ef8ec4a-198d-4b5b-a0e0-fdb1490f7a0a",
+        "question": "How many papers does the academic institution of the author of the paper 'The value of opportunities over time when preferences are unstable' have?",
+        "author_dblp_uri": "<https://dblp.org/pid/19/11122>"
+    },
+    {
+        "id": "1567a6dc-095f-412b-9d76-996bbfc75a5a",
+        "question": "What is the number of publications for the affiliation of the 'm-Transportability: Transportability of a Causal Effect from Multiple Environments' author?",
+        "author_dblp_uri": "<https://dblp.org/pid/h/VasantHonavar>"
+    },
+    {
+        "id": "9651a1d8-f515-4fc3-8edf-e7bc6efa4e67",
+        "question": "What is the type of organization of the author who published the article 'Differential piracy' in the year 2012?",
+        "author_dblp_uri": "<https://dblp.org/pid/c/JonCrowcroft>"
+    },
+    {
+        "id": "d172caf8-3aa5-4d01-a38d-1755d81d3114",
+        "question": "How many publication citations does the institution of the author who published 'Formal Specification and Static Checking of Gemplus' Electronic Purse Using ESC/Java' have?",
+        "author_dblp_uri": "<https://dblp.org/pid/76/6612>"
+    },
+    {
+        "id": "36b4a234-ba1f-4184-a264-9951623138bb",
+        "question": "What is the cited by count of the institution where the author of 'I contain multitudes: creativity and emergent narrative' published in the Creativity & Cognition journal in 2013?",
+        "author_dblp_uri": "<https://dblp.org/pid/a/RuthAylett>"
+    },
+    {
+        "id": "77f4111c-8d9e-456f-8672-b5fa35bcdae2",
+        "question": "What is the cited by count where the contributor of the article 'A Computationally Efficient Method for Nonparametric Modeling of Neural Spiking Activity with Point Processes' is affiliated?",
+        "author_dblp_uri": "<https://dblp.org/pid/39/6580>"
+    },
+    {
+        "id": "ca2d88ff-a1ea-4d80-959d-1052806c8e06",
+        "question": "What is the cited by count where the author of 'MultiS-Net: A high-capacity, packet-switched, multichannel, single-hop architecture and protocol for a local lightwave network' is affiliated?",
+        "author_dblp_uri": "<https://dblp.org/pid/86/3964>"
+    },
+    {
+        "id": "4afcc3bf-f5a9-48d6-91f9-48e9161b8027",
+        "question": "What is the type of the institute where the author of the paper 'An Adaptive User Grouping and Subcarrier Allocation Algorithm for Grouped MC-CDMA Systems' is affiliated?",
+        "author_dblp_uri": "<https://dblp.org/pid/51/2196>"
+    },
+    {
+        "id": "00409340-39c8-44a8-a14b-8016af18176d",
+        "question": "What is the number of papers authored by the institution where 'Counterfactuals in Explainable Artificial Intelligence (XAI): Evidence from Human Reasoning' author is affiliated?",
+        "author_dblp_uri": "<https://dblp.org/pid/20/1488>"
+    },
+    {
+        "id": "44668843-07ac-4b01-96e2-383aac1ca6db",
+        "question": "How many papers are associated with the institution where the author of 'FUS-Net: U-Net-Based FUS Interference Filtering' works?",
+        "author_dblp_uri": "<https://dblp.org/pid/24/2301>"
+    },
+    {
+        "id": "518c2aaf-b578-4bb3-b68b-1327da0ec46b",
+        "question": "What is the number of publications for the affiliation of the researcher who published 'Evolutionary-Algorithm-Based Strategy for Computer-Assisted Structure Elucidation'?",
+        "author_dblp_uri": "<https://dblp.org/pid/37/2657>"
+    },
+    {
+        "id": "5647504f-d322-474e-990e-ecb0607a8f8b",
+        "question": "What is the type of institution where the contributor of the 'Towards Automatic Content Quality Checks in Semantic Wikis - Position paper' paper is affiliated?",
+        "author_dblp_uri": "<https://dblp.org/pid/59/5618>"
+    },
+    {
+        "id": "f933018a-98c3-491e-b985-2a3e02f13b1c",
+        "question": "What type of organization is the institute of the writer who published the paper 'Value and the Unseen Producers: Wages for Housework in the Women's Movement in 1970s Italy and the Prosumers of Digital Capitalism'?",
+        "author_dblp_uri": "<https://dblp.org/pid/29/2716>"
+    },
+    {
+        "id": "43d15a2a-63f1-497f-b0f5-9fa605b8289d",
+        "question": "What is the number of publications for the affiliation of the creator of Preimages for Reduced-Round Tiger?",
+        "author_dblp_uri": "<https://dblp.org/pid/p/BartPreneel>"
+    },
+    {
+        "id": "0bd862d3-91fb-49b1-b082-f7b76bd67d02",
+        "question": "How many publication citations does the academic institution of the contributor of 'Sensory substitution using tactile pin arrays: Human factors, technology and applications' have?",
+        "author_dblp_uri": "<https://dblp.org/pid/b/StephenABrewster>"
+    },
+    {
+        "id": "b03eed39-2b32-4eae-9d83-5bb4b710179a",
+        "question": "What is the number of publications for the affiliation of the author who published 'Putting 'Engineering' into Software Engineering (Abstract)'?",
+        "author_dblp_uri": "<https://dblp.org/pid/93/5634>"
+    },
+    {
+        "id": "bb3eebab-9cdb-43ec-98ae-5785d01ba596",
+        "question": "How many scientific articles are attributed to the institution where Philippa Gardner works?",
+        "author_dblp_uri": "<https://dblp.org/pid/g/PhilippaGardner>"
+    },
+    {
+        "id": "1301c2d6-054f-410f-90cf-d37fff2097ca",
+        "question": "What is the cited by count for the affiliation where the author of 'Understanding Federation: An Analytical Framework for the Interoperability of Social Networking Sites' is affiliated?",
+        "author_dblp_uri": "<https://dblp.org/pid/51/4343-1>"
+    },
+    {
+        "id": "0704b78f-04c2-44b7-8073-e9360ec4bce2",
+        "question": "What is the type of the institution of the author who published 'On the impact of quantum computing technology on future developments in high-performance scientific computing'?",
+        "author_dblp_uri": "<https://dblp.org/pid/128/5115>"
+    },
+    {
+        "id": "83b0502a-7914-4188-9dc1-1bc04b85dfe7",
+        "question": "How many scientific articles are attributed to the affiliation of the creator of 'Simplifying Brownian Cellular Automata: Two States and an Average of Two Rules Per Cell'?",
+        "author_dblp_uri": "<https://dblp.org/pid/76/4941>"
+    },
+    {
+        "id": "d779fa17-19a5-4f54-a72f-3f0fe1146104",
+        "question": "What is the number of publications for the affiliation of the author of the paper 'External cognition: how do graphical representations work?'?",
+        "author_dblp_uri": "<https://dblp.org/pid/r/YvonneRogers>"
+    },
+    {
+        "id": "7ccab61f-375e-44ed-b2e3-b957d935d5de",
+        "question": "How many articles are attributed to the affiliation in which the creator of 'Enforcing information hiding in interface specifications: a client-aware checking approach' is working?",
+        "author_dblp_uri": "<https://dblp.org/pid/66/2755>"
+    },
+    {
+        "id": "c59d31bd-5b2a-4f68-89bf-7fb6c2ce9715",
+        "question": "How many scientific articles are attributed to the institution of the author who published 'Bell inequality for quNits with binary measurements' in the Quantum Inf. Comput. journal in 2003?",
+        "author_dblp_uri": "<https://dblp.org/pid/89/2598>"
+    },
+    {
+        "id": "1f1c6185-5fa1-435b-a531-aa0e6e94e94e",
+        "question": "How many scientific publications are attributed to the institution where 'Once and For All' author is affiliated?",
+        "author_dblp_uri": "<https://dblp.org/pid/k/OrnaKupferman>"
+    },
+    {
+        "id": "178b95e8-991b-49eb-91e1-6a6ca1d6d17d",
+        "question": "What is the number of papers for the institution of the author who published the article 'Stochastic Geometry Analysis of Sojourn Time in Multi-Tier Cellular Networks'?",
+        "author_dblp_uri": "<https://dblp.org/pid/45/1224>"
+    },
+    {
+        "id": "d7154799-82c1-4348-b1e0-2099d268b92d",
+        "question": "How many publications citations does the institution in which the contributor of the Dominance and Incidence Structures with Applications to Stochastic Geometry and Mathematical Morphology paper is affiliated have?",
+        "author_dblp_uri": "<https://dblp.org/pid/56/2607>"
+    },
+    {
+        "id": "ed320b98-1842-4f42-a876-c6ac090859c8",
+        "question": "How many papers are attributed to the institution where the author of 'Third case of the Cyclic Coloring Conjecture' is affiliated?",
+        "author_dblp_uri": "<https://dblp.org/pid/k/DanielKarl>"
+    },
+    {
+        "id": "ad5af96b-6105-4670-bc5e-9a69c0c48edd",
+        "question": "How many scientific articles are attributed to the Thad Starner author's institution?",
+        "author_dblp_uri": "<https://dblp.org/pid/s/ThadStarner>"
+    },
+    {
+        "id": "d13d37d9-5da8-4ef3-919a-30e4b13fdef3",
+        "question": "What is the type of the institution where the author of the paper 'The virtual lab' works?",
+        "author_dblp_uri": "<https://dblp.org/pid/w/DuncanJWatts>"
+    },
+    {
+        "id": "299d81c0-9f6d-48bc-a947-2bddb41bcd85",
+        "question": "How many publication citations does the institution of the author of 'Say EM' for Selecting Probabilistic Models for Logical Sequences have?",
+        "author_dblp_uri": "<https://dblp.org/pid/40/3793>"
+    },
+    {
+        "id": "8d1c8056-3f2f-40dd-b83e-a603140859be",
+        "question": "What is the number of publications for the affiliation of the author who published 'Dynamic Causal Modeling with Neural Population Models' in the Encyclopedia of Computational Neuroscience in 2014?",
+        "author_dblp_uri": "<https://dblp.org/pid/50/10727>"
+    },
+    {
+        "id": "7625a0fc-7b06-4e14-8fb0-ba5b8daf07cc",
+        "question": "How many articles are attributed to the affiliation in which the creator of 'Fortifying Your Defenses: Techniques to Thwart Adversarial Attacks and Boost Performance of Machine Learning-Based Intrusion Detection Systems' is working?",
+        "author_dblp_uri": "<https://dblp.org/pid/73/3673>"
+    },
+    {
+        "id": "ec021da0-efef-4d79-9322-e74fa56c2d3b",
+        "question": "What is the number of papers from the 'Feeding Inputs on Demand' author's institution?",
+        "author_dblp_uri": "<https://dblp.org/pid/a/Arvind>"
+    },
+    {
+        "id": "6472244f-f0a6-4f09-b1c3-124e45dd1b06",
+        "question": "What is the cited by count where the contributor of the article 'Haskell 98: Syntax Reference' is affiliated?",
+        "author_dblp_uri": "<https://dblp.org/pid/j/SimonLPeytonJones>"
+    },
+    {
+        "id": "d63c19ad-ca39-428a-9704-9c6b572f33e6",
+        "question": "How many papers are attributed to the academic institution of the researcher who published 'A Usability Framework for the Design and Evaluation of an Exploratory Geovisualization Environment' in IV in 2004?",
+        "author_dblp_uri": "<https://dblp.org/pid/56/3402>"
+    },
+    {
+        "id": "cd222e8a-ba0c-4dee-a552-56a2e75ff604",
+        "question": "How many papers are attributed to the institute where Philippa Gardner is affiliated?",
+        "author_dblp_uri": "<https://dblp.org/pid/g/PhilippaGardner>"
+    },
+    {
+        "id": "c05debaa-3314-446c-8f30-73d5c947c9ac",
+        "question": "What is the number of publications for the affiliation of the author who published 'Ensemble Methods in Machine Learning'?",
+        "author_dblp_uri": "<https://dblp.org/pid/d/TGDietterich>"
+    },
+    {
+        "id": "19ad4701-5aa4-40d5-9f1e-f6e7957b87a8",
+        "question": "How many papers does the academic institution of the researcher who published Comment in Technometrics have?",
+        "author_dblp_uri": "<https://dblp.org/pid/95/2223>"
+    },
+    {
+        "id": "c87c7481-f495-4c51-9a7b-e121a814ba10",
+        "question": "What is the number of publications for the institution where the author of 'Querying the Semantic Web: SPARQL' works?",
+        "author_dblp_uri": "<https://dblp.org/pid/c/StefanoCeri>"
+    },
+    {
+        "id": "c1ca590e-fe4a-4076-bfc4-c061fdf76fe9",
+        "question": "How many scientific articles are attributed to the organization of the WOWCS author?",
+        "author_dblp_uri": "<https://dblp.org/pid/78/5231>"
+    },
+    {
+        "id": "69760e94-a1d3-4738-abc0-62b47ef1cf0a",
+        "question": "How many publications are attributed to the academic institution of the creator of 'Advancing Reproducibility in Parallel and Distributed Systems Research'?",
+        "author_dblp_uri": "<https://dblp.org/pid/p/ManishParashar>"
+    },
+    {
+        "id": "963c1981-3ab9-4183-850c-b259dd93f2cb",
+        "question": "How many publications does the author of the paper 'Guest Editorial Special Section on Memory Architectures and Organization' have?",
+        "author_dblp_uri": "<https://dblp.org/pid/d/NikilDDutt>"
+    },
+    {
+        "id": "acd77525-805c-41a9-b8f1-a29a311e00cc",
+        "question": "How many citation counts are there for the institute in which the writer of 'MAC layer fairness in IEEE 802.11 DCF based Wireless Mesh Networks' is affiliated with?",
+        "author_dblp_uri": "<https://dblp.org/pid/20/4077>"
+    },
+    {
+        "id": "e1874916-8758-418f-befa-38172cdf894e",
+        "question": "What is the cited by count for the institution where Sepp Hochreiter is employed?",
+        "author_dblp_uri": "<https://dblp.org/pid/h/SeppHochreiter>"
+    },
+    {
+        "id": "e0e7a25e-a8d0-400c-9891-dfb2691d0bcd",
+        "question": "What is the number of publications cited by the affiliation of the author of the paper 'Concurrent dynamic logic'?",
+        "author_dblp_uri": "<https://dblp.org/pid/p/DavidPeleg>"
+    },
+    {
+        "id": "70515f8f-847e-4698-b6a3-f371ed6e669f",
+        "question": "How many publication citations does the institute of the author who published 'Current Trends in Logic Grammars' have?",
+        "author_dblp_uri": "<https://dblp.org/pid/d/VDahl>"
+    },
+    {
+        "id": "b268597a-91e5-4897-8a07-c80b41aafd15",
+        "question": "What kind of organization is the institute of the author who published the paper 'Source and channel coding for homogeneous sensor networks with partial cooperation'?",
+        "author_dblp_uri": "<https://dblp.org/pid/12/3337>"
+    },
+    {
+        "id": "2f65cb50-553f-47dd-968f-3e943fd494d2",
+        "question": "What is the type of organization of the writer whose article 'Corrigendum to 'Preface, EuroComb '09' [European J. Combin. 33 (2012) 685-687]' was published in 'Eur. J. Comb.' in 2013?",
+        "author_dblp_uri": "<https://dblp.org/pid/n/JaroslavNesetril>"
+    },
+    {
+        "id": "d136520f-9a90-459e-b0ce-eaceb1b6e9d7",
+        "question": "What is the cited by count where the contributor of 'High-Dimensional Covariance Decomposition into Sparse Markov and Independence Domains' is affiliated?",
+        "author_dblp_uri": "<https://dblp.org/pid/25/1529>"
+    },
+    {
+        "id": "8494ac71-b08a-4968-86ee-37b424bbbc6e",
+        "question": "How many publication citations does the institute of the author of 'Instruments of cognition: Use of citations and Web links in online teaching materials' have?",
+        "author_dblp_uri": "<https://dblp.org/pid/c/AnitaColeman>"
+    },
+    {
+        "id": "8b03fef7-a8ac-482a-86a4-909f90a0aa52",
+        "question": "What is the number of scientific papers in the academic institution of the author who presented 'Inference of species phylogenies from bi-allelic markers using pseudo-likelihood' in the year 2018?",
+        "author_dblp_uri": "<https://dblp.org/pid/18/7026>"
+    },
+    {
+        "id": "f5ea597c-803f-4e96-af61-1e5a5bc64df6",
+        "question": "What is the number of publications for the affiliation of the 'Improved Track Continuity in Multi Target Tracking by Fusing Multiple Input Sources' author?",
+        "author_dblp_uri": "<https://dblp.org/pid/27/6040>"
+    },
+    {
+        "id": "b733cae8-4634-488e-982a-eb91d79ad16a",
+        "question": "What is the institution type of the writer of 'Quality of LP-Based Approximations for Highly Combinatorial Problems'?",
+        "author_dblp_uri": "<https://dblp.org/pid/g/CarlaPGomes>"
+    },
+    {
+        "id": "4a2de3bb-56f2-4453-8253-3c24ab5437f1",
+        "question": "How many publications are associated with the affiliation of the author of 'Generating a Topic Hierarchy from Dialect Texts'?",
+        "author_dblp_uri": "<https://dblp.org/pid/m/MarieFrancineMoens>"
+    },
+    {
+        "id": "87458388-5f49-42d2-910a-d708f61ae2c8",
+        "question": "How many scientific articles are attributed to the institute where the author of 'Relating ensemble diversity and performance: A study in class noise detection' is affiliated?",
+        "author_dblp_uri": "<https://dblp.org/pid/l/NadaLavrac>"
+    },
+    {
+        "id": "299a7893-3059-4cd8-9c56-5488ce4b5944",
+        "question": "What is the type of the institution where the author of the article 'A simple memoryless proof of the capacity of the exponential server timing channel' works?",
+        "author_dblp_uri": "<https://dblp.org/pid/39/6580>"
+    },
+    {
+        "id": "b881cc39-1224-4104-9f54-1a26a258c697",
+        "question": "How many publication citations does the academic institution of the writer of the article titled 'Superhedging and Dynamic Risk Measures under Volatility Uncertainty' have?",
+        "author_dblp_uri": "<https://dblp.org/pid/06/8186>"
+    },
+    {
+        "id": "0f4f6d8f-744d-4276-90f9-64aeb9271216",
+        "question": "How many scientific articles are attributed to the institution where the creator of 'HOLMES-I, a prolog-based reason maintenance system for collecting information from multiple experts' is working?",
+        "author_dblp_uri": "<https://dblp.org/pid/o/RafailOstrovsky>"
+    },
+    {
+        "id": "8c20ccc2-e15d-442d-8c29-480da8cb56e5",
+        "question": "How many papers are attributed to the organization where 'The Vanishing Gradient Problem During Learning Recurrent Neural Nets and Problem Solutions' writer works?",
+        "author_dblp_uri": "<https://dblp.org/pid/h/SeppHochreiter>"
+    },
+    {
+        "id": "11286028-2db7-4eb2-ae1b-896bda8de5a4",
+        "question": "How many articles are attributed to the affiliation in which the author of Best papers, IPDPS 2010 is working?",
+        "author_dblp_uri": "<https://dblp.org/pid/18/1807>"
+    },
+    {
+        "id": "2e27e58f-5929-4be9-8328-ca01b7b662d7",
+        "question": "What is the type of institution where the author of the 'Terminal Sliding Mode Control for the Formation of a Team of Quadrotors and Mobile Robots' paper works?",
+        "author_dblp_uri": "<https://dblp.org/pid/53/6671>"
+    },
+    {
+        "id": "76a6aa6b-214c-4638-bb46-66ae38fa749a",
+        "question": "What is the type of the institution where the author of the paper 'Nonparametric if and DOA estimation' works at?",
+        "author_dblp_uri": "<https://dblp.org/pid/67/5907>"
+    },
+    {
+        "id": "e469e036-ff70-4561-9704-a94a66e727f4",
+        "question": "What is the number of publications for the affiliation of the writer who published 'The strong law of large numbers for fuzzy random variables'?",
+        "author_dblp_uri": "<https://dblp.org/pid/k/RudolfKruse>"
+    },
+    {
+        "id": "7049a6ec-7f11-49d7-88fd-c1da225c2959",
+        "question": "How many papers does the academic institution of the researcher who published 'The Platonic solids and fundamental tests of quantum mechanics' in the Quantum journal in 2020 have?",
+        "author_dblp_uri": "<https://dblp.org/pid/89/2598>"
+    },
+    {
+        "id": "0447b4fc-c81b-40ca-9d60-5ff507e22035",
+        "question": "What is the number of citation counts for the institution where the author of 'Smooth levels of detail' is affiliated?",
+        "author_dblp_uri": "<https://dblp.org/pid/s/DieterSchmalstieg>"
+    },
+    {
+        "id": "c37e39d2-d24b-4677-913d-71048b8bd8b3",
+        "question": "How many articles are published by the educational organization where the author of 'Labeling Moving Points with a Trade-Off between Label Speed and Label Overlap' is affiliated?",
+        "author_dblp_uri": "<https://dblp.org/pid/b/MarkdeBerg>"
+    },
+    {
+        "id": "8bdf8cea-9cda-4f9f-bbc6-52ffabf2beb3",
+        "question": "How many papers are associated with the institution where the academic author of the 'AFS and the Web: Competitors or Collaborators?' article works?",
+        "author_dblp_uri": "<https://dblp.org/pid/s/MahadevSatyanarayanan>"
+    },
+    {
+        "id": "0f3f28bd-9cf3-425f-a5f6-22092c319b5b",
+        "question": "What is the cited by count of the author's institution who published 'Identifying Critical Contextual Design Cues Through a Machine Learning Approach'?",
+        "author_dblp_uri": "<https://dblp.org/pid/95/4954>"
+    },
+    {
+        "id": "e9ff47ea-26f5-4bd9-a98d-a56a8cbd70cb",
+        "question": "What is the number of publications for the affiliation of the writer of 'Speech Processing for Audio Indexing'?",
+        "author_dblp_uri": "<https://dblp.org/pid/14/2303>"
+    },
+    {
+        "id": "b5f51efe-5012-4799-ba2d-aad6a410ae69",
+        "question": "How many papers are attributed to the educational organization of the contributor of 'Bias and responsibility in 'neutral' social protocols'?",
+        "author_dblp_uri": "<https://dblp.org/pid/03/1595>"
+    },
+    {
+        "id": "4df66526-4935-4a02-95c3-08588bd0ea6f",
+        "question": "How many papers does the academic institution of the author who wrote 'Gradient-based Counterfactual Explanations using Tractable Probabilistic Models' have?",
+        "author_dblp_uri": "<https://dblp.org/pid/40/3793>"
+    },
+    {
+        "id": "f8c99760-4b84-48e8-a0e3-d4dd15297578",
+        "question": "What is the cited by count where the writer of the article 'An exploratory study to identify rogue seasonality in a steel company's supply network using spectral principal component analysis' is affiliated?",
+        "author_dblp_uri": "<https://dblp.org/pid/66/853>"
+    },
+    {
+        "id": "104a7fe5-7cdf-470e-83c4-2c5d6e475637",
+        "question": "How many publication citations does the academic institution of the author who published the paper 'Existence and Completeness of Solutions to Extended Projected Dynamical Systems and Sector-Bounded Projection-Based Controllers' have?",
+        "author_dblp_uri": "<https://dblp.org/pid/97/6480>"
+    },
+    {
+        "id": "18c4a408-616d-449d-90d8-e35b3dcf5591",
+        "question": "What is the number of articles attributed to the affiliation of the author who published 'Quotients of Association Schemes' in 1995?",
+        "author_dblp_uri": "<https://dblp.org/pid/g/ChrisDGodsil>"
+    },
+    {
+        "id": "c2b6339d-72f5-4aa9-be4f-d4c23b7f0b83",
+        "question": "How many papers are attributed to the institution of the author who published 'Machine learning methods applied to DNA microarray data can improve the diagnosis of cancer'?",
+        "author_dblp_uri": "<https://dblp.org/pid/t/RobertTibshirani>"
+    },
+    {
+        "id": "57885cc8-2fe1-4935-b26d-2dfac764d753",
+        "question": "How many articles does the author's institution who authored 'SyncScan: practical fast handoff for 802.11 infrastructure networks' have?",
+        "author_dblp_uri": "<https://dblp.org/pid/s/StefanSavage>"
+    },
+    {
+        "id": "19f5db43-2b8e-449d-8627-05dc8e49562d",
+        "question": "How many publication citations does the institution of the author of 'Econophysics: can physicists contribute to the science of economics?' have?",
+        "author_dblp_uri": "<https://dblp.org/pid/24/5927>"
+    },
+    {
+        "id": "2dbb985b-2fb4-4267-87aa-79f18a7a8f10",
+        "question": "How many publications are attributed to the organization in which the author of 'Data Analysis, Spatial' works?",
+        "author_dblp_uri": "<https://dblp.org/pid/37/5735>"
+    },
+    {
+        "id": "60613c69-76f8-4e6f-ab67-f87f8c45a1ba",
+        "question": "How many papers are associated with the affiliation of the scientist who published 'Designing with Haptic Feedback'?",
+        "author_dblp_uri": "<https://dblp.org/pid/59/3596>"
+    },
+    {
+        "id": "b92b198c-99ca-40fd-ad50-a5298303c33a",
+        "question": "How many articles are attributed to the affiliation in which the author of 'Death of the user: Reconceptualizing subjects, objects, and their relations' works?",
+        "author_dblp_uri": "<https://dblp.org/pid/29/2716>"
+    },
+    {
+        "id": "669058c2-0cba-4d48-9ff5-b3c363be0ad2",
+        "question": "What is the type of the academic institution where the author of 'Social Order in Artificial Worlds' works?",
+        "author_dblp_uri": "<https://dblp.org/pid/m/MWMacy>"
+    },
+    {
+        "id": "6dba3309-52f8-4822-9787-0f2a41010227",
+        "question": "How many publications are cited by the institution to which the author of 'Blockchain Technology as a Regulatory Technology: From Code is Law to Law is Code' belongs?",
+        "author_dblp_uri": "<https://dblp.org/pid/51/4343-1>"
+    },
+    {
+        "id": "80ecd849-6e0e-4641-ae1a-22af2e9b98ea",
+        "question": "How many papers are associated with the institution of the researcher who published 'Power Saving Techniques for Wireless LANs' in the CoRR journal?",
+        "author_dblp_uri": "<https://dblp.org/pid/s/TajanaSimunic>"
+    },
+    {
+        "id": "219efbe5-63fc-4c53-9a8f-684cbfb0be0e",
+        "question": "How many papers does the academic institution of the researcher who published 'A Fuzzy Service Adaptation Based on QoS Satisfaction' have?",
+        "author_dblp_uri": "<https://dblp.org/pid/p/BarbaraPernici>"
+    },
+    {
+        "id": "85963df6-555a-47fd-b77f-1c15c4f29a97",
+        "question": "How many papers does the academic institution of the author behind 'Approximate Set Covering in Uniform Hypergraphs' have?",
+        "author_dblp_uri": "<https://dblp.org/pid/09/3445>"
+    },
+    {
+        "id": "fe9b3308-2e6a-415b-a20e-59aa651c6edd",
+        "question": "What kind of organization is the institute of the author of 'Parallel Computation Of Optic Flow'?",
+        "author_dblp_uri": "<https://dblp.org/pid/b/MichaelBrady>"
+    },
+    {
+        "id": "92444f70-d1a6-4dd6-a6a4-3c5e53a53e5b",
+        "question": "How many citations does the institute of the author of the article 'Are you Planning to Take a PhD?' have?",
+        "author_dblp_uri": "<https://dblp.org/pid/t/AslakTveito>"
+    },
+    {
+        "id": "bf3f4326-3cd6-4c18-8eb8-42f01be7338e",
+        "question": "How many papers does the academic institution of the author of the critical clustering structures in categorical datasets article have?",
+        "author_dblp_uri": "<https://dblp.org/pid/l/LingLiu>"
+    },
+    {
+        "id": "6fbd8251-22f8-4c53-b002-e5b83d587067",
+        "question": "How many articles are attributed to the academic institution where the writer of 'A Methodology for Joint Data and Functional Analysis' is affiliated?",
+        "author_dblp_uri": "<https://dblp.org/pid/c/StefanoCeri>"
+    },
+    {
+        "id": "dafdac56-3b54-48a5-ab61-fb512d19dafe",
+        "question": "How many articles are attributed to the institution in which the author of 'Supersparse Linear Integer Models for Optimized Medical Scoring Systems' is affiliated?",
+        "author_dblp_uri": "<https://dblp.org/pid/62/6936>"
+    },
+    {
+        "id": "8a82a50b-945a-4a25-9f13-66e3fe47eed7",
+        "question": "How many articles are attributed to the institution in which the creator of 'External cognition: how do graphical representations work?' is working?",
+        "author_dblp_uri": "<https://dblp.org/pid/r/YvonneRogers>"
+    },
+    {
+        "id": "c691aae8-49c7-4b61-9bd0-f44bfa21a82b",
+        "question": "What is the type of the institution where the author of the publication 'Programming up to Congruence' works?",
+        "author_dblp_uri": "<https://dblp.org/pid/w/StephanieWeirich>"
+    },
+    {
+        "id": "604f90fd-4f1c-4124-8693-8f382696475c",
+        "question": "What is the i10Index of the scholar affiliated with Georgia Institute of Technology, Atlanta, USA and contributed to the development of Configurable Objects in 1997?",
+        "author_dblp_uri": "<https://dblp.org/pid/03/6463>"
+    },
+    {
+        "id": "3ff1f98d-b0fe-4f28-9c83-bd996f36298f",
+        "question": "What is the cited by count where the contributor of 'A Visualization Environment for the Space-Time-Cube' article is affiliated?",
+        "author_dblp_uri": "<https://dblp.org/pid/56/3402>"
+    },
+    {
+        "id": "d5ad75e7-5693-44e9-8478-d462dbb7e198",
+        "question": "How many publication citations does the institute of the writer of 'Balanced externalities and the Shapley value' have?",
+        "author_dblp_uri": "<https://dblp.org/pid/19/11122>"
+    },
+    {
+        "id": "044483b4-6e93-4be3-a6c2-e342e3b02c0a",
+        "question": "What kind of organization is the institution where the author of 'Prospects for Quantum Dot Implementation of Adiabatic Quantum Computers for Intractable Problems' works?",
+        "author_dblp_uri": "<https://dblp.org/pid/203/3524-2>"
+    },
+    {
+        "id": "32e245dd-b658-486c-abc2-c4b1e4bda29c",
+        "question": "How many articles are attributed to the affiliation in which the author of 'Speaker verification over the telephone' is working?",
+        "author_dblp_uri": "<https://dblp.org/pid/14/2303>"
+    },
+    {
+        "id": "6830add1-d09f-46ea-9d8c-67c9add5a41a",
+        "question": "What is the institute type in which the author of the article 'Exploratory Visualization' published in 2008 works?",
+        "author_dblp_uri": "<https://dblp.org/pid/56/3402>"
+    },
+    {
+        "id": "25f63bd0-e36b-45a1-8e85-fd82051a6d9c",
+        "question": "What is the number of papers for the school where the author of the publication 'Rate allocation for strategic users in Gaussian multiple access wiretap channels' is affiliated?",
+        "author_dblp_uri": "<https://dblp.org/pid/b/RandallBerry>"
+    },
+    {
+        "id": "d550a763-f718-488f-bd85-9a4fb5aea8ea",
+        "question": "How many scientific articles are attributed to the writer's institution in which the paper 'A sharp-interface immersed boundary method with improved mass conservation and reduced spurious pressure oscillations' was published?",
+        "author_dblp_uri": "<https://dblp.org/pid/60/1673-2>"
+    },
+    {
+        "id": "8fbeaae8-fef5-429b-ad15-30614171735f",
+        "question": "How many papers does the academic institution of the author who published the paper 'Step away from stepwise' have?",
+        "author_dblp_uri": "<https://dblp.org/pid/03/1837-3>"
+    },
+    {
+        "id": "3079300e-6032-4304-88bb-d063a65526a4",
+        "question": "What is the cited by count where the contributor of 'The Design and Evaluation of Interactivities in a Digital Library' article is affiliated?",
+        "author_dblp_uri": "<https://dblp.org/pid/c/AnitaColeman>"
+    },
+    {
+        "id": "8b629d15-494e-4835-bd59-b16dc8997509",
+        "question": "What is the type of organization where the author of 'A Survey of Face Recognition Techniques' works?",
+        "author_dblp_uri": "<https://dblp.org/pid/a/HRArabnia>"
+    },
+    {
+        "id": "6914b24d-50e5-410a-944b-6d37846dc633",
+        "question": "In which city is the main building of the academic institution of the researcher who published 'Density of universal classes of series-parallel graphs' located?",
+        "author_dblp_uri": "<https://dblp.org/pid/n/JaroslavNesetril>"
+    },
+    {
+        "id": "375937b8-3ed4-426d-89aa-311ab5237a7e",
+        "question": "In which year did the academic institution where the author of LIIR at SemEval-2020 Task 12 is affiliated rank 45th in the world according to the Times Higher Education rankings?",
+        "author_dblp_uri": "<https://dblp.org/pid/m/MarieFrancineMoens>"
+    },
+    {
+        "id": "7ab6189b-6a2e-4422-9115-42b8dafcfa5a",
+        "question": "How many Pulitzer Prize winners are affiliated with the academic institution of the author of When a Robot Tells You That It Can Lie?",
+        "author_dblp_uri": "<https://dblp.org/pid/11/399>"
+    },
+    {
+        "id": "9837dd50-e902-42f8-b07e-2c5041a673ac",
+        "question": "What is the oldest Dutch public technical university where Frances M. T. Brazier is affiliated as an author?",
+        "author_dblp_uri": "<https://dblp.org/pid/11/4932>"
+    },
+    {
+        "id": "a95eeeab-46b5-4d8e-a696-5839657fe0da",
+        "question": "In which city does the institute associated with the author of 'Intelligent Agents: Where AI Meets Information Technology' reside?",
+        "author_dblp_uri": "<https://dblp.org/pid/h/JamesAHendler>"
+    },
+    {
+        "id": "07d0af1f-8436-4077-aa2c-5e7212270a94",
+        "question": "Who is the President/CEO of the institution where the author of Getting Started in Tiling Microarray Analysis works?",
+        "author_dblp_uri": "<https://dblp.org/pid/31/1596>"
+    },
+    {
+        "id": "346c50ba-0c44-4d31-a09e-6061be66afee",
+        "question": "How many Nobel Prizes have been won by individuals affiliated with the University of British Columbia?",
+        "author_dblp_uri": "<https://dblp.org/pid/59/3596>"
+    },
+    {
+        "id": "a762f75b-1b9b-456c-8383-32f3a7381ca8",
+        "question": "Who became the president of the institution from which the author who published 'Multimedia Information Systems: Problems and Solutions' is affiliated on January 1, 2020?",
+        "author_dblp_uri": "<https://dblp.org/pid/b/NikolaosGBourbakis>"
+    },
+    {
+        "id": "0bb30b47-e4fe-4724-8423-abcfd53be2b2",
+        "question": "When was the academic institution of the author who published A level set method for vapor bubble dynamics founded?",
+        "author_dblp_uri": "<https://dblp.org/pid/06/10753>"
+    },
+    {
+        "id": "c98a97d9-f723-496e-830a-8eeaf2c02b93",
+        "question": "How many majors are offered by the academic institution of the researcher who published 'A Multi-Resolution Hierarchical Approach for Face Recognition'?",
+        "author_dblp_uri": "<https://dblp.org/pid/a/HRArabnia>"
+    },
+    {
+        "id": "56065bd4-f7c6-4dae-90cf-22e5d7271a15",
+        "question": "What is the short name of the institute of the Chaotic Compilation: A (Statistical) Cloak for a Secret Computer article author?",
+        "author_dblp_uri": "<https://dblp.org/pid/b/JonathanPBowen>"
+    },
+    {
+        "id": "8a608ae6-79b8-491b-9b8b-c047a1064bae",
+        "question": "How many research centers are affiliated with the academic institution of the author of 'Writer Identification in Modern and Historical Documents via Binary Pixel Patterns, Kolmogorov-Smirnov Test and Fisher's Method'?",
+        "author_dblp_uri": "<https://dblp.org/pid/09/2758>"
+    },
+    {
+        "id": "de7b7c85-66d8-496e-a34d-c1c3a4fe4f21",
+        "question": "What is the short name of the academic institution in Illinois where Tarek F. Abdelzaher's publications are associated with?",
+        "author_dblp_uri": "<https://dblp.org/pid/a/TarekFAbdelzaher>"
+    },
+    {
+        "id": "0ca64dd3-e62e-4900-b67f-dd62b53f1ad1",
+        "question": "How many Nobel Prizes is the university associated with Hlaing Minn's institute affiliated with?",
+        "author_dblp_uri": "<https://dblp.org/pid/38/6381>"
+    },
+    {
+        "id": "d424b89d-1a1b-4180-a5f7-4547c3650bc5",
+        "question": "How many Allen Discovery Centers have been launched by the academic institution of the author of Attention and consciousness?",
+        "author_dblp_uri": "<https://dblp.org/pid/71/4603>"
+    },
+    {
+        "id": "e35662f2-dcf8-49d7-825c-4e0ea32324bc",
+        "question": "When was the institute where the author of 'A Message-Passing Control Structure For Text Understanding' conducted founded?",
+        "author_dblp_uri": "<https://dblp.org/pid/h/JamesAHendler>"
+    },
+    {
+        "id": "556c56c6-238e-4640-9ad2-620bfe6634f1",
+        "question": "How many Australian prime ministers graduated from the academic institution of the researcher who published 'Automatic Measurement of a QoS Metric for Web Service Recommendation'?",
+        "author_dblp_uri": "<https://dblp.org/pid/47/5584>"
+    },
+    {
+        "id": "65e25633-5ddb-4fcc-b1ce-1f03a1c5b303",
+        "question": "What is the author's institute mentioned in the publication titled 'General Smart Meter Guidelines to Accurately Assess the Aging of Distribution Transformers'?",
+        "author_dblp_uri": "<https://dblp.org/pid/55/168>"
+    },
+    {
+        "id": "7b5e62b7-effc-4c61-bbb4-000a73d50b16",
+        "question": "When was the academic institution where Raouf Boutaba is affiliated incorporated as a university?",
+        "author_dblp_uri": "<https://dblp.org/pid/b/RaoufBoutaba>"
+    },
+    {
+        "id": "04aa5999-201f-4189-8b33-6916358f7262",
+        "question": "When was the institution founded where the author of Process-Aware Information Systems for Virtual Teamwork is affiliated?",
+        "author_dblp_uri": "<https://dblp.org/pid/d/SDustdar>"
+    },
+    {
+        "id": "e6533af0-4277-483e-9cd7-a625a33886bc",
+        "question": "Where is the main campus of the academic institution of Andrea Prosperetti located?",
+        "author_dblp_uri": "<https://dblp.org/pid/06/10753>"
+    },
+    {
+        "id": "ae55b4bd-306c-4550-b090-37fa2dadb164",
+        "question": "Where is the primary campus of the academic institution of the researcher who published Towards Robust Relational Causal Discovery located?",
+        "author_dblp_uri": "<https://dblp.org/pid/h/VasantHonavar>"
+    },
+    {
+        "id": "2fc7bd22-28c2-49da-aab5-0d22d16e9a2e",
+        "question": "What is the short name of the institute of the author who published the article 'Symbolic Reasoning with Weighted and Normalized Decision Diagrams'?",
+        "author_dblp_uri": "<https://dblp.org/pid/b/ChristelBaier>"
+    },
+    {
+        "id": "8527f30e-00b2-4fa5-9878-ab39501defd2",
+        "question": "What year was the academic institution of the scholar who published Automatic code generation for real-time convex optimization established?",
+        "author_dblp_uri": "<https://dblp.org/pid/b/SPBoyd>"
+    },
+    {
+        "id": "0c20d24e-453a-4835-a847-661f8978cb69",
+        "question": "When did the academic institution of the author who published Spreadsheets for business process management: Using process mining to deal with 'events' rather than 'numbers'?' emerge from the final of the third federal and state excellence strategy?",
+        "author_dblp_uri": "<https://dblp.org/pid/a/WilMPvanderAalst>"
+    },
+    {
+        "id": "d0f5df9d-972c-41c3-b58d-6d08d1fec8d5",
+        "question": "What is the primary language of instruction at the academic institution of the author of Information Extraction: Algorithms and Prospects in a Retrieval Context?",
+        "author_dblp_uri": "<https://dblp.org/pid/m/MarieFrancineMoens>"
+    },
+    {
+        "id": "ef0f265c-8ac5-4882-a10a-784bdfa8a73b",
+        "question": "Who is the current Chancellor of the academic institution where Peter J. Haas is affiliated?",
+        "author_dblp_uri": "<https://dblp.org/pid/h/PeterJHaas>"
+    },
+    {
+        "id": "d3527fca-0ba0-4a7a-95ec-27e3484336e9",
+        "question": "What is the short name of the institute of the Explicit Namespaces article author?",
+        "author_dblp_uri": "<https://dblp.org/pid/n/ONierstrasz>"
+    },
+    {
+        "id": "1f3e6dad-a0e2-41d4-b116-9cfc69da96e6",
+        "question": "What is the institute affiliation of the author who published the article 'A dynamic rate assignment scheme for data traffic in cellular multi-code CDMA networks'?",
+        "author_dblp_uri": "<https://dblp.org/pid/51/2196>"
+    },
+    {
+        "id": "cf335a6c-284c-4214-ab36-02918c9f9be5",
+        "question": "What is the official name of the institution of the publication author TUNNEX: An easy-to-use wentzel-kramers-brillouin (WKB) implementation to compute tunneling half-lives?",
+        "author_dblp_uri": "<https://dblp.org/pid/19/6717>"
+    },
+    {
+        "id": "baf42852-ada4-45f0-8d2e-4f89eed35a8d",
+        "question": "When was the academic institution of the author who published 'An Energy Efficient Middleware Architecture for Processing Spatial Alarms on Mobile Clients' established?",
+        "author_dblp_uri": "<https://dblp.org/pid/l/LingLiu>"
+    },
+    {
+        "id": "2f239705-a5fc-47ea-8722-3850feca7bc9",
+        "question": "In which city is the affiliated institution of the scholar who authored CVXPY: A Python-Embedded Modeling Language for Convex Optimization located?",
+        "author_dblp_uri": "<https://dblp.org/pid/b/SPBoyd>"
+    },
+    {
+        "id": "71fac39c-bb6d-4edd-93ce-69ddd72a582d",
+        "question": "How many students were enrolled in the academic institution affiliated with the Averaging of Random Sets Based on Their Distance Functions paper creator in 2022?",
+        "author_dblp_uri": "<https://dblp.org/pid/56/2607>"
+    },
+    {
+        "id": "9aa0a1a1-96ab-486f-b760-abdb7eb3e636",
+        "question": "When did the affiliation of the author who published 'Expected Wire Length between Two Randomly Chosen Terminals' begin?",
+        "author_dblp_uri": "<https://dblp.org/pid/84/927>"
+    },
+    {
+        "id": "18891e83-066c-4b15-bf51-ebb2118e3740",
+        "question": "How many Distinguished professors are associated with the academic institution of the author who published 'Basic social cognition without mindreading: minding minds without attributing contents'?",
+        "author_dblp_uri": "<https://dblp.org/pid/172/4378>"
+    },
+    {
+        "id": "7277ee0e-787c-496e-8392-e14b94919097",
+        "question": "What is the nickname of the athletics teams of the educational institution where the author who published 'Automatic Region Growing Algorithm for the Visible Human Dateset' is affiliated?",
+        "author_dblp_uri": "<https://dblp.org/pid/a/HRArabnia>"
+    },
+    {
+        "id": "50d1efa5-c750-4a3b-bb5c-29e1d828b9f9",
+        "question": "When was the inauguration of the academic institution related to the author of the Incidence and lattice calculus with applications to stochastic geometry and image analysis article?",
+        "author_dblp_uri": "<https://dblp.org/pid/56/2607>"
+    },
+    {
+        "id": "1ebf619b-7503-43a7-a7d0-776832556dc5",
+        "question": "How many beds does the medical center affiliated with the author of Using Sensorimotor Contingencies for Prediction and Action Planning have?",
+        "author_dblp_uri": "<https://dblp.org/pid/10/5365>"
+    },
+    {
+        "id": "307e9d8c-fe84-47cf-afea-e0c4bf2e79df",
+        "question": "When was the establishment year of the institute related to the Long-time dynamics and control of subsonic flow-structure interactions author?",
+        "author_dblp_uri": "<https://dblp.org/pid/l/IrenaLasiecka>"
+    },
+    {
+        "id": "99162d05-5488-4743-afbb-3660aaf5fa41",
+        "question": "In which district are most institutes and clinics affiliated with the academic institution of the author of 'Agile software assessment with Moose' located?",
+        "author_dblp_uri": "<https://dblp.org/pid/n/ONierstrasz>"
+    },
+    {
+        "id": "03dfa5e2-6dc8-41ee-8e57-08b1284e5c27",
+        "question": "How many Fields Medalists are affiliated with the academic institution of the researcher who investigated automatic decomposition for ASR in less represented languages?",
+        "author_dblp_uri": "<https://dblp.org/pid/14/2303>"
+    },
+    {
+        "id": "6002c535-790d-41c4-b16e-cf25556d4e5e",
+        "question": "What is the academic institution of the researcher who published the article 'Comments on 'Envelope Detector Performance for a Partially Coherent-Fading Sinewave in Noise''?",
+        "author_dblp_uri": "<https://dblp.org/pid/09/4589>"
+    },
+    {
+        "id": "918e53c7-c5f3-4b8d-bf6a-5fd19363f7cb",
+        "question": "What is the short name of the academic institution associated with the publication 'Eigenvalue analysis of the SIMPLE preconditioning for incompressible flow'?",
+        "author_dblp_uri": "<https://dblp.org/pid/128/5115>"
+    },
+    {
+        "id": "cc64c75e-2113-4b1f-99b3-662e2aa863cd",
+        "question": "In which London borough is the main campus of Jonathan P. Bowen's affiliation located?",
+        "author_dblp_uri": "<https://dblp.org/pid/b/JonathanPBowen>"
+    },
+    {
+        "id": "9cf3daf8-099f-4774-b378-fd9a4885a130",
+        "question": "What is the short name of the institute of the author who published A Compositional Framework for Real-Time Guarantees?",
+        "author_dblp_uri": "<https://dblp.org/pid/l/InsupLee>"
+    },
+    {
+        "id": "c4927988-c6ea-420e-8e43-8d563de3b444",
+        "question": "Which college affiliated with the author of A Note on Computing Interval Overlap Statistics was ranked 17 in India by the National Institutional Ranking Framework (NIRF) pharmacy ranking in 2021?",
+        "author_dblp_uri": "<https://dblp.org/pid/b/VineetBafna>"
+    },
+    {
+        "id": "a3b944a2-9e1b-407a-9f98-82ac2e2d9734",
+        "question": "How many campus locations does the institute of the Logic Programming for Constructive Expert Database Systems paper author have?",
+        "author_dblp_uri": "<https://dblp.org/pid/d/VDahl>"
+    },
+    {
+        "id": "1b23cd7c-8fd1-48ad-a93c-60c6c19506a4",
+        "question": "In what year was the institution where Eun Jung Kim is affiliated established?",
+        "author_dblp_uri": "<https://dblp.org/pid/87/5080-2>"
+    },
+    {
+        "id": "b7f9b99c-7288-43cc-9adb-41b6ad35e514",
+        "question": "Who is the current president of the institute that James A. Hendler is affiliated with?",
+        "author_dblp_uri": "<https://dblp.org/pid/h/JamesAHendler>"
+    },
+    {
+        "id": "ce57dcbc-caad-4d66-8ea3-065abcf26484",
+        "question": "In which city is the headquarters of the affiliation of the author who wrote Relational analysis of (co)inductive predicates, (co)algebraic datatypes, and (co)recursive functions located?",
+        "author_dblp_uri": "<https://dblp.org/pid/52/6913>"
+    },
+    {
+        "id": "46f0d1d1-117c-41b0-a2bb-7643b74c9941",
+        "question": "What is the capital city of the academic institution where the author of the AD HOC NETWORKS EDITORIAL (2017) is affiliated located in?",
+        "author_dblp_uri": "<https://dblp.org/pid/a/IAAkyildiz>"
+    },
+    {
+        "id": "cb313ee6-589b-40ff-b2b6-c217d23678cc",
+        "question": "In which London district is the main campus of the affiliation of the author who published 'Stochastic Refinement' located?",
+        "author_dblp_uri": "<https://dblp.org/pid/m/StephenMuggleton>"
+    },
+    {
+        "id": "be851f6a-7434-4eda-a944-84a72c4714c7",
+        "question": "What is the short name of the institute of the author of the paper 'Entropy Coding in HEVC'?",
+        "author_dblp_uri": "<https://dblp.org/pid/49/3209>"
+    },
+    {
+        "id": "ad04d8cc-6bef-476f-8878-cf99722b4fc1",
+        "question": "How many faculties does the institute affiliated with the publication 'GMRESR: a family of nested GMRES methods' have?",
+        "author_dblp_uri": "<https://dblp.org/pid/128/5115>"
+    },
+    {
+        "id": "cb66c020-f0b8-420f-98bd-340aa0665f18",
+        "question": "In which year was the university that Giuseppe F. Italiano is affiliated with founded?",
+        "author_dblp_uri": "<https://dblp.org/pid/i/GiuseppeFItaliano>"
+    },
+    {
+        "id": "abc7f2b9-72c1-401f-9d02-77030b30e037",
+        "question": "Where is the main campus of the author 'Daniel D. Hutto' affiliated university located?",
+        "author_dblp_uri": "<https://dblp.org/pid/172/4378>"
+    },
+    {
+        "id": "457a776a-0b56-4d34-9258-5faa5fc1045c",
+        "question": "What is the name of the institute where Jos\u00e9 Rui Figueira is affiliated?",
+        "author_dblp_uri": "<https://dblp.org/pid/69/6228>"
+    },
+    {
+        "id": "f323178d-e90a-487e-8beb-0d7a53a6edd9",
+        "question": "What is the short name of the institute of the author who published the article 'Understanding the Expressive Power and Mechanisms of Transformer for Sequence Modeling'?",
+        "author_dblp_uri": "<https://dblp.org/pid/06/9390>"
+    },
+    {
+        "id": "463643b7-a261-40cb-82bf-06aa6cec1529",
+        "question": "When was the affiliation of the author who published Recovering Software Architecture with Softwarenaut founded?",
+        "author_dblp_uri": "<https://dblp.org/pid/n/ONierstrasz>"
+    },
+    {
+        "id": "fa510abf-8be3-430e-912a-99b52e22c710",
+        "question": "When did the academic institution linked to the publication 'Composite Anderson acceleration method with dynamic window-sizes and optimized damping' change its name to its current name?",
+        "author_dblp_uri": "<https://dblp.org/pid/128/5115>"
+    },
+    {
+        "id": "bcd3c25d-a2fb-4004-9ac9-71026477f35c",
+        "question": "How many faculties does the academic institution of the author of the On Ramsey-type positional games paper consist of?",
+        "author_dblp_uri": "<https://dblp.org/pid/n/JaroslavNesetril>"
+    },
+    {
+        "id": "aa4eb77f-508d-4a80-b87a-eb73e93f6594",
+        "question": "Where is the author who published Writer Identification in Modern and Historical Documents via Binary Pixel Patterns, Kolmogorov-Smirnov Test and Fisher's Method affiliated?",
+        "author_dblp_uri": "<https://dblp.org/pid/09/2758>"
+    },
+    {
+        "id": "8ea937f0-210a-46e9-b0aa-b1d7f3b0744f",
+        "question": "Where is the main campus of the academic institution where the author of Argumentation mining article is located?",
+        "author_dblp_uri": "<https://dblp.org/pid/m/MarieFrancineMoens>"
+    },
+    {
+        "id": "d868191e-fec8-4868-9050-0e7f4f17b632",
+        "question": "When did the affiliation of the author who published Robust Consensus for Continuous-Time Multiagent Dynamics get its current name?",
+        "author_dblp_uri": "<https://dblp.org/pid/81/3323>"
+    },
+    {
+        "id": "d78351ce-7a56-4fca-8347-4b07aa8384a9",
+        "question": "What is the short name of the institute of the IV-GNN : interval valued data handling using graph neural network article author?",
+        "author_dblp_uri": "<https://dblp.org/pid/b/SanghamitraBandyopadhyay>"
+    },
+    {
+        "id": "85ca2c6b-e622-4ffc-aa9f-ad1d37979c12",
+        "question": "What is the short name of the institute of the author who published a note on the Consecutive Ones Submatrix problem?",
+        "author_dblp_uri": "<https://dblp.org/pid/334/4488>"
+    },
+    {
+        "id": "9eece0d9-6e0f-4211-9d0d-03b57f8c9f08",
+        "question": "What is the short name of the institute of the Fine-grain CAM-tag cache resizing using miss tags article author?",
+        "author_dblp_uri": "<https://dblp.org/pid/a/KrsteAsanovic>"
+    },
+    {
+        "id": "572c9fb9-0a38-4758-bdc3-f83552b1b3e8",
+        "question": "In which city is the main campus of the academic institution related to Performance analysis of a class of linear quadratic regulators for switched linear systems located according to the author of Input-to-state stability and interconnections of discontinuous dynamical systems?",
+        "author_dblp_uri": "<https://dblp.org/pid/97/6480>"
+    },
+    {
+        "id": "6b892aa8-3bd6-47aa-a683-7d2968a17b1b",
+        "question": "How many Nobel laureates are affiliated with the academic institution of the researcher who published 'Future Global Change and Cognition'?",
+        "author_dblp_uri": "<https://dblp.org/pid/22/8704>"
+    },
+    {
+        "id": "00cadc0c-e918-48b8-b4eb-1db8e2e592de",
+        "question": "What is the short name of the institute of the author who published Wireless Time-Triggered Real-Time Communication?",
+        "author_dblp_uri": "<https://dblp.org/pid/51/75>"
+    },
+    {
+        "id": "ee1e3bf8-eabe-4b8d-af37-dbdbfd3f9563",
+        "question": "From which institute did the writer of The evolution of stochastic grammars for representation and recognition of activities in videos get his PhD?",
+        "author_dblp_uri": "<https://dblp.org/pid/c/RamaChellappa>"
+    },
+    {
+        "id": "7fec055f-e5aa-43eb-9608-f4ce1707e27e",
+        "question": "Which university did the author of 'The Vanishing Gradient Problem During Learning Recurrent Neural Nets and Problem Solutions' lead the Institute of Bioinformatics from 2006 to 2018?",
+        "author_dblp_uri": "<https://dblp.org/pid/h/SeppHochreiter>"
+    },
+    {
+        "id": "a61f2c8a-135e-4c34-b82d-1fb034dceb4e",
+        "question": "Which institute did the author of Transitive-Closure Spanners: A Survey complete her Ph.D.?",
+        "author_dblp_uri": "<https://dblp.org/pid/14/3654>"
+    },
+    {
+        "id": "661809f9-3141-4d90-b47e-d8ad3f76e948",
+        "question": "Where was the contributor who published Properties of Metabolic Graphs: Biological Organization or Representation Artifacts? born?",
+        "author_dblp_uri": "<https://dblp.org/pid/18/7026>"
+    },
+    {
+        "id": "069543b5-7b09-4f98-9f6e-66c375438fb4",
+        "question": "What is the birth year of the contributor of 'Understanding Organizational Evolution of Software Projects'?",
+        "author_dblp_uri": "<https://dblp.org/pid/a/SvenApel>"
+    },
+    {
+        "id": "6e09a2bb-e91c-4cb8-b813-8d4a0a85d575",
+        "question": "From which institute did the author of Introductory Remarks receive a Certificate of Apprenticeship in Mechanical Engineering?",
+        "author_dblp_uri": "<https://dblp.org/pid/c/HIChristensen>"
+    },
+    {
+        "id": "f7e7fb60-cdb3-40d6-bc0d-5eef0b3b0e5d",
+        "question": "Which institute did the contributor of Ontology-based Semantic Relatedness Measures: Applications and Calculation work at?",
+        "author_dblp_uri": "<https://dblp.org/pid/g/AlexanderFGelbukh>"
+    },
+    {
+        "id": "86f0c204-5b13-4991-835a-3845fbcc2cbd",
+        "question": "What is the professional affiliation of the author of Implications of Technology Trends on System Dependability?",
+        "author_dblp_uri": "<https://dblp.org/pid/a/JacobAAbraham>"
+    },
+    {
+        "id": "f1dd325a-8659-4538-a2e5-a4ee2692312f",
+        "question": "From which institute did the contributor who wrote on Distributed Personalization: Bridging Digital Islands in Museum and Interactive TV get her PhD?",
+        "author_dblp_uri": "<https://dblp.org/pid/42/6100>"
+    },
+    {
+        "id": "944d1ed1-496b-4741-a411-395d0c7def8c",
+        "question": "Where is the current affiliation of the author of On the power spectral density of digital pulse streams generated by M-ary cyclostationary sequences in the presence of stationary timing jitter?",
+        "author_dblp_uri": "<https://dblp.org/pid/21/4583>"
+    },
+    {
+        "id": "c10e9bc2-f3c3-4c6e-8f00-01e63dc4a804",
+        "question": "From which institute did the contributor to 'On the Synchronization Mechanisms for Multimedia Integrated Services Networks' receive his BS, MS, and PhD degrees?",
+        "author_dblp_uri": "<https://dblp.org/pid/a/IAAkyildiz>"
+    },
+    {
+        "id": "94f6948f-b50b-42b7-9adb-be901df30387",
+        "question": "From which institute did the contributor who published 'Locality and professional life' get his PhD?",
+        "author_dblp_uri": "<https://dblp.org/pid/d/PJDenning>"
+    },
+    {
+        "id": "e559e95c-3924-4c2c-a2ff-427cf14c8a76",
+        "question": "In which institute was the author of Theory and application of intelligent agent systems awarded a PhD in artificial intelligence?",
+        "author_dblp_uri": "<https://dblp.org/pid/47/2186>"
+    },
+    {
+        "id": "29ed46fb-1f86-4d0f-9a38-33a40a6113ed",
+        "question": "From which institute did the author of Residue Classes of the PPT Sequence get a Bachelor of Engineering degree?",
+        "author_dblp_uri": "<https://dblp.org/pid/47/717>"
+    },
+    {
+        "id": "0cdd8566-4de1-44de-86e7-691349848520",
+        "question": "Which institute does the author of A communication algorithm for teamwork in multi-agent environments hold the chair of Logic and Cognition at?",
+        "author_dblp_uri": "<https://dblp.org/pid/v/RVerbrugge>"
+    },
+    {
+        "id": "4504839a-2d28-4023-8b5f-060973867552",
+        "question": "What is the name of the institute where the writer of 'Fuzzy skeletonization of an image' received a PhD?",
+        "author_dblp_uri": "<https://dblp.org/pid/p/SankarKPal>"
+    },
+    {
+        "id": "055e7106-c84b-46e9-9cde-55f2979e470f",
+        "question": "In which year did the writer of 'Expertise at Our Fingertips' hold a post-doctoral fellowship at the Stanford Institute for Economic Policy Research?",
+        "author_dblp_uri": "<https://dblp.org/pid/g/ShaneMGreenstein>"
+    },
+    {
+        "id": "296b4d5c-c88f-4241-91f0-d917030bdac9",
+        "question": "From which institute did the writer of Alternating Sequential Filters by Adaptive-Neighborhood Structuring Functions get his baccalaureate degree?",
+        "author_dblp_uri": "<https://dblp.org/pid/13/3565>"
+    },
+    {
+        "id": "f7eff135-4d8f-4125-baf3-6f68e773a5bc",
+        "question": "In which institute did the mathematician specializing in combinatorics complete his Habilitation in 1978?",
+        "author_dblp_uri": "<https://dblp.org/pid/10/2900>"
+    },
+    {
+        "id": "028a6688-a094-4e84-a7b6-8c104a25c355",
+        "question": "In which year was the author of 'Why CSCW Applications Fail: Problems in the Design and Evaluation of Organization of Organizational Interfaces' honored with the CSCW Lasting Impact Award?",
+        "author_dblp_uri": "<https://dblp.org/pid/g/JonathanGrudin>"
+    },
+    {
+        "id": "3ea9656f-aa7c-4c31-bccf-b438a5c2cd7f",
+        "question": "In which year was the author of Privacy-Preserving and Co-utile Distributed Social Credit named Fellow of the Institute of Electrical and Electronics Engineers (IEEE)?",
+        "author_dblp_uri": "<https://dblp.org/pid/d/JDomingoFerrer>"
+    },
+    {
+        "id": "70502e03-958f-44d6-b314-9980cbfbcb82",
+        "question": "From which institute did the author of Mixing cloud and grid resources for many task computing get his Bachelor's degree?",
+        "author_dblp_uri": "<https://dblp.org/pid/09/6203>"
+    },
+    {
+        "id": "e349d033-0002-4fd7-afa7-9a5ce8dd91cd",
+        "question": "To which institute has the academic who wrote 'Wavefronts for discrete two-dimensional nonlinear diffusion equations' been affiliated since 2007?",
+        "author_dblp_uri": "<https://dblp.org/pid/31/1369>"
+    },
+    {
+        "id": "5c7f42a5-c062-4acc-b2e0-a4072b21dcde",
+        "question": "From which institute did the writer of A Note on 'Is Shortest Path Problem not Harder Than Matrix Multiplication?' receive his Ph.D.?",
+        "author_dblp_uri": "<https://dblp.org/pid/m/ShlomoMoran>"
+    },
+    {
+        "id": "e5a01eb7-94c1-4fd7-9eae-e08ae4f2c92b",
+        "question": "Where is the institute where the contributor of An efficient algorithm for periodic Hermite spline interpolation with shifted nodes is a professor?",
+        "author_dblp_uri": "<https://dblp.org/pid/85/761>"
+    },
+    {
+        "id": "240fc1b4-b51c-4100-9e64-792ab386efa3",
+        "question": "Which institute has the academician of the Serbian Academy of Sciences and Arts, who published Series expansions in Fr\u00e9chet spaces and their duals, construction of Fr\u00e9chet frames, been a professor since 1987?",
+        "author_dblp_uri": "<https://dblp.org/pid/70/9289>"
+    },
+    {
+        "id": "c5747331-8ca8-4876-bfb1-6c61e3e7f849",
+        "question": "In which year was the author of 'CASE Tools as Organizational Change: Investigating Incremental and Radical Changes in Systems Development' elected a corresponding Fellow of the British Academy?",
+        "author_dblp_uri": "<https://dblp.org/pid/o/WandaJOrlikowski>"
+    },
+    {
+        "id": "ecbccbfc-bf74-40b0-b649-a4a6e4017d95",
+        "question": "In which year was the scholar who authored 'Analysis of the impact of sensor noise on formation flying control' named a Fellow of the American Institute of Aeronautics and Astronautics?",
+        "author_dblp_uri": "<https://dblp.org/pid/43/1256>"
+    },
+    {
+        "id": "f0e7affc-e584-425b-b60f-c00b5a7b2dd6",
+        "question": "Which institute did the creator of 'Supporting Collaborative Task Management in E-mail' study at as an undergraduate?",
+        "author_dblp_uri": "<https://dblp.org/pid/41/2145-1>"
+    },
+    {
+        "id": "4416df17-cd3c-4b58-b64a-de6015997730",
+        "question": "What institute did the creator of Resolving edge-line ambiguities using probabilistic relaxation graduate from?",
+        "author_dblp_uri": "<https://dblp.org/pid/h/EdwinRHancock>"
+    },
+    {
+        "id": "6c4ca8ab-03b5-4035-bb8d-75291530f461",
+        "question": "In which institute did the writer of 'Automatic Prostate Cancer Grading System Based on 3-D Histo-Pathological Images' receive his BSc (Hons.), BTech and MTech degrees from?",
+        "author_dblp_uri": "<https://dblp.org/pid/c/BidyutBaranChaudhuri>"
+    },
+    {
+        "id": "31284de0-078f-4887-ade4-8ac70f547c89",
+        "question": "What organization elected the professor who authored Broadening Real-Time Systems Research as a fellow in 2009?",
+        "author_dblp_uri": "<https://dblp.org/pid/b/AlanBurns>"
+    },
+    {
+        "id": "61375c0b-e09e-4c0b-8e3e-882dcb3aadf0",
+        "question": "Which academic institute did the author of 'Ray Shooting and Other Applications of Spanning Trees with Low Stabbing Number' chair the computer science department at since 2004?",
+        "author_dblp_uri": "<https://dblp.org/pid/a/PankajKAgarwal>"
+    },
+    {
+        "id": "c0625f23-1c81-4ce2-85ed-5d0504b77e2f",
+        "question": "From which institute did the writer of A survey of heuristics for the weighted matching problem get his Ph.D.?",
+        "author_dblp_uri": "<https://dblp.org/pid/a/DavidAvis>"
+    },
+    {
+        "id": "9cbac535-b509-4299-b449-f621a189d2e1",
+        "question": "Which organization elected the author of Native Cloud Applications - Why Virtual Machines, Images and Containers Miss the Point! as a Fellow in 2019?",
+        "author_dblp_uri": "<https://dblp.org/pid/l/FrankLeymann>"
+    },
+    {
+        "id": "5c809e8b-5080-4025-9e77-4da4a4573f2f",
+        "question": "In which year did the contributor who authored 'Bioinformatics and the theoretical foundations of molecular biology' start their own laboratory researching computational genomics at the European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI)?",
+        "author_dblp_uri": "<https://dblp.org/pid/13/6101>"
+    },
+    {
+        "id": "9a2a668a-89e7-4506-857f-b301bd1d2074",
+        "question": "What is the institute where the author of Built-in generation of functional broadside tests graduated from?",
+        "author_dblp_uri": "<https://dblp.org/pid/p/IrithPomeranz>"
+    },
+    {
+        "id": "d8b50e42-89a9-4599-9046-00e866e6f7d6",
+        "question": "From which institution did the writer of Lyapunov functionals in complex \textmu analysis receive the President of India Gold Medal?",
+        "author_dblp_uri": "<https://dblp.org/pid/51/2502>"
+    }
+]

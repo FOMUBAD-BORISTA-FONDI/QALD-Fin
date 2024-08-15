@@ -1,0 +1,134 @@
+[
+    {
+        "id": "e9d1e85c-fde5-471c-a42f-a272a01a18bc",
+        "question": "What is the type of organization where the author of 'How Does the Observation Strategy Influence the Correctness of Alerting Services?' work?",
+        "author_dblp_uri": "<https://dblp.org/pid/h/AnnikaHinze>",
+        "key": "institution_type"
+    },
+    {
+        "id": "1395f2f2-6fa8-4dcc-ace6-7060575f6075",
+        "question": "What is the type of institution where the author of the paper 'Fusion of short-wave infrared and visible near-infrared WorldView-3 data' works?",
+        "author_dblp_uri": "<https://dblp.org/pid/97/2816>",
+        "key": "institution_type"
+    },
+    {
+        "id": "9651a1d8-f515-4fc3-8edf-e7bc6efa4e67",
+        "question": "What is the type of organization of the author who published the article 'Differential piracy' in the year 2012?",
+        "author_dblp_uri": "<https://dblp.org/pid/c/JonCrowcroft>",
+        "key": "institution_type"
+    },
+    {
+        "id": "4afcc3bf-f5a9-48d6-91f9-48e9161b8027",
+        "question": "What is the type of the institute where the author of the paper 'An Adaptive User Grouping and Subcarrier Allocation Algorithm for Grouped MC-CDMA Systems' is affiliated?",
+        "author_dblp_uri": "<https://dblp.org/pid/51/2196>",
+        "key": "institution_type"
+    },
+    {
+        "id": "5647504f-d322-474e-990e-ecb0607a8f8b",
+        "question": "What is the type of institution where the contributor of the 'Towards Automatic Content Quality Checks in Semantic Wikis - Position paper' paper is affiliated?",
+        "author_dblp_uri": "<https://dblp.org/pid/59/5618>",
+        "key": "institution_type"
+    },
+    {
+        "id": "f933018a-98c3-491e-b985-2a3e02f13b1c",
+        "question": "What type of organization is the institute of the writer who published the paper 'Value and the Unseen Producers: Wages for Housework in the Women's Movement in 1970s Italy and the Prosumers of Digital Capitalism'?",
+        "author_dblp_uri": "<https://dblp.org/pid/29/2716>",
+        "key": "institution_type"
+    },
+    {
+        "id": "0704b78f-04c2-44b7-8073-e9360ec4bce2",
+        "question": "What is the type of the institution of the author who published 'On the impact of quantum computing technology on future developments in high-performance scientific computing'?",
+        "author_dblp_uri": "<https://dblp.org/pid/128/5115>",
+        "key": "institution_type"
+    },
+    {
+        "id": "d13d37d9-5da8-4ef3-919a-30e4b13fdef3",
+        "question": "What is the type of the institution where the author of the paper 'The virtual lab' works?",
+        "author_dblp_uri": "<https://dblp.org/pid/w/DuncanJWatts>",
+        "key": "institution_type"
+    },
+    {
+        "id": "b268597a-91e5-4897-8a07-c80b41aafd15",
+        "question": "What kind of organization is the institute of the author who published the paper 'Source and channel coding for homogeneous sensor networks with partial cooperation'?",
+        "author_dblp_uri": "<https://dblp.org/pid/12/3337>",
+        "key": "institution_type"
+    },
+    {
+        "id": "2f65cb50-553f-47dd-968f-3e943fd494d2",
+        "question": "What is the type of organization of the writer whose article 'Corrigendum to 'Preface, EuroComb '09' [European J. Combin. 33 (2012) 685-687]' was published in 'Eur. J. Comb.' in 2013?",
+        "author_dblp_uri": "<https://dblp.org/pid/n/JaroslavNesetril>",
+        "key": "institution_type"
+    },
+    {
+        "id": "b733cae8-4634-488e-982a-eb91d79ad16a",
+        "question": "What is the institution type of the writer of 'Quality of LP-Based Approximations for Highly Combinatorial Problems'?",
+        "author_dblp_uri": "<https://dblp.org/pid/g/CarlaPGomes>",
+        "key": "institution_type"
+    },
+    {
+        "id": "299a7893-3059-4cd8-9c56-5488ce4b5944",
+        "question": "What is the type of the institution where the author of the article 'A simple memoryless proof of the capacity of the exponential server timing channel' works?",
+        "author_dblp_uri": "<https://dblp.org/pid/39/6580>",
+        "key": "institution_type"
+    },
+    {
+        "id": "2e27e58f-5929-4be9-8328-ca01b7b662d7",
+        "question": "What is the type of institution where the author of the 'Terminal Sliding Mode Control for the Formation of a Team of Quadrotors and Mobile Robots' paper works?",
+        "author_dblp_uri": "<https://dblp.org/pid/53/6671>",
+        "key": "institution_type"
+    },
+    {
+        "id": "76a6aa6b-214c-4638-bb46-66ae38fa749a",
+        "question": "What is the type of the institution where the author of the paper 'Nonparametric if and DOA estimation' works at?",
+        "author_dblp_uri": "<https://dblp.org/pid/67/5907>",
+        "key": "institution_type"
+    },
+    {
+        "id": "669058c2-0cba-4d48-9ff5-b3c363be0ad2",
+        "question": "What is the type of the academic institution where the author of 'Social Order in Artificial Worlds' works?",
+        "author_dblp_uri": "<https://dblp.org/pid/m/MWMacy>",
+        "key": "institution_type"
+    },
+    {
+        "id": "fe9b3308-2e6a-415b-a20e-59aa651c6edd",
+        "question": "What kind of organization is the institute of the author of 'Parallel Computation Of Optic Flow'?",
+        "author_dblp_uri": "<https://dblp.org/pid/b/MichaelBrady>",
+        "key": "institution_type"
+    },
+    {
+        "id": "c691aae8-49c7-4b61-9bd0-f44bfa21a82b",
+        "question": "What is the type of the institution where the author of the publication 'Programming up to Congruence' works?",
+        "author_dblp_uri": "<https://dblp.org/pid/w/StephanieWeirich>",
+        "key": "institution_type"
+    },
+    {
+        "id": "044483b4-6e93-4be3-a6c2-e342e3b02c0a",
+        "question": "What kind of organization is the institution where the author of 'Prospects for Quantum Dot Implementation of Adiabatic Quantum Computers for Intractable Problems' works?",
+        "author_dblp_uri": "<https://dblp.org/pid/203/3524-2>",
+        "key": "institution_type"
+    },
+    {
+        "id": "6830add1-d09f-46ea-9d8c-67c9add5a41a",
+        "question": "What is the institute type in which the author of the article 'Exploratory Visualization' published in 2008 works?",
+        "author_dblp_uri": "<https://dblp.org/pid/56/3402>",
+        "key": "institution_type"
+    },
+    {
+        "id": "8b629d15-494e-4835-bd59-b16dc8997509",
+        "question": "What is the type of organization where the author of 'A Survey of Face Recognition Techniques' works?",
+        "author_dblp_uri": "<https://dblp.org/pid/a/HRArabnia>",
+        "key": "institution_type"
+    },
+    {
+        "id": "ce57dcbc-caad-4d66-8ea3-065abcf26484",
+        "question": "In which city is the headquarters of the affiliation of the author who wrote Relational analysis of (co)inductive predicates, (co)algebraic datatypes, and (co)recursive functions located?",
+        "author_dblp_uri": "<https://dblp.org/pid/52/6913>",
+        "key": "institution_type"
+    },
+    {
+        "id": "bcd3c25d-a2fb-4004-9ac9-71026477f35c",
+        "question": "How many faculties does the academic institution of the author of the On Ramsey-type positional games paper consist of?",
+        "author_dblp_uri": "<https://dblp.org/pid/n/JaroslavNesetril>",
+        "key": "institution_type"
+    }
+]

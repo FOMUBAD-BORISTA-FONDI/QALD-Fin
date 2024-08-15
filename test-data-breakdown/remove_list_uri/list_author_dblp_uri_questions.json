@@ -1,0 +1,702 @@
+[
+    {
+        "id": "be2c546c-1645-4615-8506-fe2abf5d52f0",
+        "question": "Whose research has more works, the author who wrote 'Spatial ability and visual navigation: an Empirical Study' or the writer of 'Speaking More Like You: Lexical, Acoustic/Prosodic, and Discourse Entrainment in Spoken Dialogue Systems'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/c/MaryCzerwinski>",
+                "author2_dblp_uri": "<https://dblp.org/pid/h/JuliaHirschberg>"
+            }
+        ]
+    },
+    {
+        "id": "2eb71407-2c0b-41fd-bea4-bf40aff23f7d",
+        "question": "Whose hIndex is higher, the author of 'Sparse Bayesian Learning via Stepwise Regression' or the author of 'Towards real-time multilingual multimodal speech-to-speech translation'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/g/CarlaPGomes>",
+                "author2_dblp_uri": "<https://dblp.org/pid/57/1548-1>"
+            }
+        ]
+    },
+    {
+        "id": "5026cbfb-a982-4345-8b3c-caf696f2dc63",
+        "question": "Whose hIndex is higher, the author of 'Annotate once, appear anywhere: collective foraging for snippets of interest using paragraph fingerprinting' or the author of 'Image segmentation based on fuzzy connectedness using dynamic weights'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/13/310>",
+                "author2_dblp_uri": "<https://dblp.org/pid/29/1088>"
+            }
+        ]
+    },
+    {
+        "id": "3b6bb62e-fd9e-4522-a105-b7ef56b7ffb3",
+        "question": "Which affiliation has fewer publications cited by count, University of Twente or Qualcomm (United Kingdom)?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/76/6612>",
+                "author2_dblp_uri": "<https://dblp.org/pid/p/FatihMuratPorikli>"
+            }
+        ]
+    },
+    {
+        "id": "8a95222c-4f95-48db-ba30-597f1a26fee3",
+        "question": "In terms of i10Index, whose score is better, the author of 'Pseudorandom Functions and Permutations Provably Secure against Related-Key Attacks' or author of 'Bayesian Inductive Logic Programming'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/b/MBellare>",
+                "author2_dblp_uri": "<https://dblp.org/pid/m/StephenMuggleton>"
+            }
+        ]
+    },
+    {
+        "id": "5e1706a0-de4d-4b3a-ba56-9f2a0e8270d3",
+        "question": "When comparing the citedBy count of the author of 'Unsupervised Category Discovery in Images Using Sparse Neural Coding' with the author of 'A Model for Information Exploration', who has a higher count?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/71/4603>",
+                "author2_dblp_uri": "<https://dblp.org/pid/08/2050>"
+            }
+        ]
+    },
+    {
+        "id": "fc3a85d1-eae0-4ac1-bbdb-d5a87d9d3b2e",
+        "question": "Whose i10Index is higher, Line Transversals and Pinning Numbers author or the creator of New insights in synthetic fiber rope elongation and its detection for ultra lightweight tendon driven series elastic robots paper?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/c/OtfriedCheong>",
+                "author2_dblp_uri": "<https://dblp.org/pid/47/2033>"
+            }
+        ]
+    },
+    {
+        "id": "8e55deca-3fa1-4edc-b82c-483b37b5c0b9",
+        "question": "Whose hIndex is higher, the author who published 'Keeping up appearances: understanding the dimensions of incidental information privacy' or the author of 'Capturing Knowledge about Drug-Drug Interactions to Enhance Treatment Effectiveness'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/i/KoriInkpen>",
+                "author2_dblp_uri": "<https://dblp.org/pid/92/654>"
+            }
+        ]
+    },
+    {
+        "id": "7eb2f577-1ffe-4c59-bd5d-2059a3424bb0",
+        "question": "Which author has more publications, the creator of Cooperative Pathfinding or the writer of Simple and efficient self-healing strategy for damaged complex networks?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/34/3601>",
+                "author2_dblp_uri": "<https://dblp.org/pid/143/7089>"
+            }
+        ]
+    },
+    {
+        "id": "ba0fa778-b73b-467d-9f21-86c3acdc26cc",
+        "question": "Which institute has more publications cited by count, the affiliation of the author of 'Do Consumers Take Advantage of Common Pricing Standards? An Experimental Investigation' or the affiliation of the author of 'Vision-Based Road-Following Using Proportional Navigation'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/27/6040>",
+                "author2_dblp_uri": "<https://dblp.org/pid/19/11122>"
+            }
+        ]
+    },
+    {
+        "id": "a543f25b-e774-466a-ab98-12802916ae26",
+        "question": "Which author has more publications, the author who wrote Understanding Federation or the author of Design and analysis of multi-hospital kidney exchange mechanisms using random graphs?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/51/4343-1>",
+                "author2_dblp_uri": "<https://dblp.org/pid/p/DavidCParkes>"
+            }
+        ]
+    },
+    {
+        "id": "eecafeab-8b23-4d4a-a9de-100ab09bcbff",
+        "question": "Whose institute has a higher number of publications cited, the creator of 'Distributed Simulation of Multi-Agent Hybrid Systems' or the writer of 'Topicality and Social Impact: Diverse Messages but Focused Messengers'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/l/InsupLee>",
+                "author2_dblp_uri": "<https://dblp.org/pid/79/3056>"
+            }
+        ]
+    },
+    {
+        "id": "52a4ea56-36e8-4285-825d-c1831d79444b",
+        "question": "Which author has more publication citations, the writer of Videotater or the creator of The Abelian Hopf H mod K Theorem?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/e/IrfanAEssa>",
+                "author2_dblp_uri": "<https://dblp.org/pid/65/5992>"
+            }
+        ]
+    },
+    {
+        "id": "26f87f30-0291-4582-a209-a8ffbe1a1793",
+        "question": "Who has more worksCount, the author of 'Business Model Innovation and the Rise of Technology Giants' or the author of 'Trends and Challenges in Algorithmic Software Verification'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/86/1689>",
+                "author2_dblp_uri": "<https://dblp.org/pid/a/RAlur>"
+            }
+        ]
+    },
+    {
+        "id": "e5c947d0-b16e-4de8-86d2-23aeaa99ef32",
+        "question": "Which author has a higher hIndex, Laura Waller or Mary L. Cummings?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/120/6842>",
+                "author2_dblp_uri": "<https://dblp.org/pid/95/4954>"
+            }
+        ]
+    },
+    {
+        "id": "76d011a1-03da-44d2-b844-143666a5863a",
+        "question": "Which author's institute has more publication citations, the affiliation of the writer of 'Cognitive Load in Collaboration-Convergence' or the one who published 'Identification of Widely Applicable Configurations for the Electrostimulative Total Hip Revision System'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/05/11399>",
+                "author2_dblp_uri": "<https://dblp.org/pid/11/4932>"
+            }
+        ]
+    },
+    {
+        "id": "9d06431d-de00-4e5f-8ec0-e9d8eb8e7daa",
+        "question": "Comparing the hIndex of the author of 'Predicting UNIX Command Lines: Adjusting to User Patterns' and the author of 'The Evolution of Dataflow Architectures: from Static Dataflow to P-RISC', who has a higher hIndex?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/g/RussellGreiner>",
+                "author2_dblp_uri": "<https://dblp.org/pid/a/Arvind>"
+            }
+        ]
+    },
+    {
+        "id": "98a78e4a-f8ec-4a87-a7b2-e2a51cad1bb4",
+        "question": "When comparing the number of works published, who has more, the author of Real-Time Convex Optimization in Signal Processing or the author of Towards Visual Arctic Terrain Assessment?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/b/SPBoyd>",
+                "author2_dblp_uri": "<https://dblp.org/pid/11/399>"
+            }
+        ]
+    },
+    {
+        "id": "7d079c6e-d8ad-4138-adb1-9f741005ae4e",
+        "question": "Which author has published the article entitled 'An Instrument for a Purpose Driven Comparison of Modelling Frameworks'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/05/11399>",
+                "author2_dblp_uri": "<https://dblp.org/pid/11/4932>"
+            }
+        ]
+    },
+    {
+        "id": "b19791df-1aae-48bb-8c7f-2a2127f4c79e",
+        "question": "Who has a higher hIndex, author of Document compression using rate-distortion optimized segmentation or author of Dictionary Learning for High Dimensional Graph Signals?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/e/MichaelElad>",
+                "author2_dblp_uri": "<https://dblp.org/pid/21/6686>"
+            }
+        ]
+    },
+    {
+        "id": "a04045d1-ae40-42b7-a892-fc2fa11954af",
+        "question": "Who has a higher hIndex, the author who published 'On the Bias of Directed Information Estimators' or the author of 'The internet and inequality'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/24/1434>",
+                "author2_dblp_uri": "<https://dblp.org/pid/39/6580>"
+            }
+        ]
+    },
+    {
+        "id": "c6c76dc2-3ded-482c-a13d-20d81625eeea",
+        "question": "In terms of i10Index score, is the author of 'Opportunistic Splitting Algorithms For Wireless Networks' or the creator of 'Incidence and lattice calculus with applications to stochastic geometry and image analysis' superior?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/b/RandallBerry>",
+                "author2_dblp_uri": "<https://dblp.org/pid/56/2607>"
+            }
+        ]
+    },
+    {
+        "id": "ad496c64-7c57-4903-a1b6-cb603eb97f67",
+        "question": "Which author has authored more papers, the creator of 'Visualization of TINs' or the author of 'LIIR at SemEval-2020 Task 12: A Cross-Lingual Augmentation Approach for Multilingual Offensive Language Identification'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/b/MarkdeBerg>",
+                "author2_dblp_uri": "<https://dblp.org/pid/m/MarieFrancineMoens>"
+            }
+        ]
+    },
+    {
+        "id": "a87ffe3a-9c3f-4865-9e09-50c45907d1f4",
+        "question": "Which institute has more publications, University of Twente or the affiliation of the writer of 'Compressive Clustering of High-Dimensional Data'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/76/6612>",
+                "author2_dblp_uri": "<https://dblp.org/pid/p/FatihMuratPorikli>"
+            }
+        ]
+    },
+    {
+        "id": "6a829c9d-0d9e-4621-980c-f9809c4abcfb",
+        "question": "In terms of two-year mean citedness, which author has a higher value, the creator of 'Multimodal prediction of the audience's impression in political debates' or the author of 'Coverage Probability Analysis Under Clustered Ambient Backscatter Nodes'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/85/6201>",
+                "author2_dblp_uri": "<https://dblp.org/pid/38/6381>"
+            }
+        ]
+    },
+    {
+        "id": "8b575f0d-2b1a-4f72-834a-2d4982998f7c",
+        "question": "When comparing the citation count of 'Detection of Multiple Deformable Objects using PCA-SIFT' paper author and the author of 'Ensembles of case-based reasoning classifiers in high-dimensional biological domains', who has a higher count?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/27/4777>",
+                "author2_dblp_uri": "<https://dblp.org/pid/40/6158>"
+            }
+        ]
+    },
+    {
+        "id": "fad25873-c30a-43dd-9163-346522933863",
+        "question": "Which author has a higher number of publications, the creator of Graphical Overlays or the author who published Bias-Variance Trade-off and Overlearning in Dynamic Decision Problems?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/06/8186>",
+                "author2_dblp_uri": "<https://dblp.org/pid/64/2431>"
+            }
+        ]
+    },
+    {
+        "id": "523d085a-756a-4a7c-bb4a-4fc7123006b1",
+        "question": "Which author has a higher cited by count, the creator of 'Mutually Avoiding Ternary Words of Small Exponent' or the researcher of 'The Vanishing Gradient Problem During Learning Recurrent Neural Nets and Problem Solutions'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/c/MCrochemore>",
+                "author2_dblp_uri": "<https://dblp.org/pid/h/SeppHochreiter>"
+            }
+        ]
+    },
+    {
+        "id": "5d38eaaf-23be-416e-9b53-04e12f88321f",
+        "question": "Which author has more publications, the author who wrote 'Learning Significant Locations and Predicting User Movement with GPS' or the author of 'A note on balanced colourings for lattice points'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/s/ThadStarner>",
+                "author2_dblp_uri": "<https://dblp.org/pid/u/JorgeUrrutia>"
+            }
+        ]
+    },
+    {
+        "id": "e9ba41ea-264d-4f3e-ae13-9954f6eedd0f",
+        "question": "In terms of citedByCount, who has a higher count, the author of 'Novel Scatter Compensation of List-Mode PET Data Using Spatial and Energy Dependent Corrections' or the author of 'On the Stable Resolution Limit of Total Variation Regularization for Spike Deconvolution'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/02/9372>",
+                "author2_dblp_uri": "<https://dblp.org/pid/82/8759>"
+            }
+        ]
+    },
+    {
+        "id": "a3fbe08f-4021-4df2-bc36-7c2298ed151e",
+        "question": "Which author has fewer publications, the creator of the article 'Are you Interested in Theoretical Computer Science? (How Not???) I Have Some Advice for You' or H. Eugene Stanley?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/24/5927>",
+                "author2_dblp_uri": "<https://dblp.org/pid/f/MichaelRFellows>"
+            }
+        ]
+    },
+    {
+        "id": "36d4ff2b-50e5-4626-b351-aa65738febc2",
+        "question": "Whose h-index is higher, the author of the Model-Checking Secure Information Flow for Multi-threaded Programs or the author of the Constant time O(1) bilateral filtering paper?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/76/6612>",
+                "author2_dblp_uri": "<https://dblp.org/pid/p/FatihMuratPorikli>"
+            }
+        ]
+    },
+    {
+        "id": "19526183-7002-411f-af40-58bd4b6a975a",
+        "question": "Which author has more publications cited by count, the creator of 'Latticed Simulation Relations and Games' or the author of 'Towards a White Box Approach to Automated Algorithm Design'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/k/OrnaKupferman>",
+                "author2_dblp_uri": "<https://dblp.org/pid/95/232>"
+            }
+        ]
+    },
+    {
+        "id": "87fdc25b-4ad8-4939-93f5-91baa253b113",
+        "question": "Whose twoYearMeanCitedness is greater, Joshua R. Smith or Duncan J. Watts?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/s/JoshuaRSmith>",
+                "author2_dblp_uri": "<https://dblp.org/pid/w/DuncanJWatts>"
+            }
+        ]
+    },
+    {
+        "id": "f83d8add-d5a4-4c5c-912f-27b54ea191fa",
+        "question": "Which author has a higher cited by count, the author of 'On spectral polynomials of the Heun equation. I' or the author of 'FlashLite: A User-Level Library to Enhance Durability of SSD for P2P File Sharing'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/41/8081>",
+                "author2_dblp_uri": "<https://dblp.org/pid/r/URamachandran>"
+            }
+        ]
+    },
+    {
+        "id": "ab3d4a34-b51f-403d-9dda-06c2b1e13864",
+        "question": "Which author's institute has more publications, the author who published 'Fine-grained Human Analysis under Occlusions and Perspective Constraints in Multimedia Surveillance' or the author of 'Large-Sample and Deterministic Confidence Intervals for Online Aggregation'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/c/RitaCucchiara>",
+                "author2_dblp_uri": "<https://dblp.org/pid/h/PeterJHaas>"
+            }
+        ]
+    },
+    {
+        "id": "d0af21f4-0679-46a6-ac85-bb32cc65e81b",
+        "question": "Which institute has more publication citations, the affiliation of the author of 'Editorial: Formale Methoden in der Praxis' or the institute of the creator of 'Digital Media and the Relational Revolution in Social Science'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/b/ManfredBroy>",
+                "author2_dblp_uri": "<https://dblp.org/pid/m/MWMacy>"
+            }
+        ]
+    },
+    {
+        "id": "ff7b844b-ad17-434f-b37e-edc052617120",
+        "question": "In which institute does the author who published the article 'The Impact of Modelling and Abstraction Concerns on Modern Programming Languages' work and how many publications has this institute cited?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/93/5634>",
+                "author2_dblp_uri": "<https://dblp.org/pid/d/SophiaDrossopoulou>"
+            }
+        ]
+    },
+    {
+        "id": "1ee82eb9-1666-428d-8623-0a89adacb8ba",
+        "question": "Which author has a higher number of publications cited by count, the writer of 'On the interplay between the semantics of Java's finally clauses and the JML run-time checker' or the author of 'Constrained video object segmentation by color masks and MPEG-7 descriptors'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/76/6612>",
+                "author2_dblp_uri": "<https://dblp.org/pid/p/FatihMuratPorikli>"
+            }
+        ]
+    },
+    {
+        "id": "3d042bbd-6c5c-40eb-870c-377771994e13",
+        "question": "Who has a higher hIndex, the author of 'Wavelet-Galerkin method for the Kolmogorov equation' or the author of 'Say EM for Selecting Probabilistic Models for Logical Sequences'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/y/StephenSTYau>",
+                "author2_dblp_uri": "<https://dblp.org/pid/40/3793>"
+            }
+        ]
+    },
+    {
+        "id": "89439162-8347-4da2-8518-0d69dad8a6ed",
+        "question": "Which institute has more publications citations, the institute of the author who wrote about DNA sequence representation based on genetic code context or the Technical University of Darmstadt?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/y/StephenSTYau>",
+                "author2_dblp_uri": "<https://dblp.org/pid/40/3793>"
+            }
+        ]
+    },
+    {
+        "id": "cd14ec19-6b64-428c-aa28-3a001300e56f",
+        "question": "In terms of works count, who has more publications - the author of PAC: Perceptive Admission Control for Mobile Wireless Networks or the author of A data mining approach to the prediction of corporate failure?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/b/EMBeldingRoyer>",
+                "author2_dblp_uri": "<https://dblp.org/pid/m/SallyIMcClean>"
+            }
+        ]
+    },
+    {
+        "id": "6d3f8b8c-bc1a-437a-85a9-5d8a78d3d456",
+        "question": "Whose institute has more publications, the creator of 'Adaptive Feedback Partitions in Dynamic Zero-Forcing Beamforming Based on Stochastic Geometry' or the author of 'Increasing the Lifetime of a Key: A Comparative Analysis of the Security of Re-keying Techniques'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/b/MBellare>",
+                "author2_dblp_uri": "<https://dblp.org/pid/56/4851>"
+            }
+        ]
+    },
+    {
+        "id": "391dff10-c8a0-483a-894f-0650a1a89bec",
+        "question": "In terms of cited by count, who has a larger number, the creator of 'Why Noise and Fluctuations Can Make Life Simpler' or the author of 'The evolution of research on R&D and technology management in China'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/76/4941>",
+                "author2_dblp_uri": "<https://dblp.org/pid/94/11523>"
+            }
+        ]
+    },
+    {
+        "id": "825bf0e9-d048-4960-8923-27a2fa82b13b",
+        "question": "Which author has more publications, the writer of 'Integrated Design and Control using a Dynamic Inversely Controlled Process Model' or the author of 'Polymorphic Higher-Order Recursive Path Orderings'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/j/JeanPierreJouannaud>",
+                "author2_dblp_uri": "<https://dblp.org/pid/66/853>"
+            }
+        ]
+    },
+    {
+        "id": "d42d9669-87f0-403f-b421-6e570e541559",
+        "question": "Whose research has a higher citedByCount, the author of 'Finding Effective Ways to (Machine) Learn fMRI-Based Classifiers from Multi-site Data' or the author of 'Bluespec and Haskell'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/g/RussellGreiner>",
+                "author2_dblp_uri": "<https://dblp.org/pid/a/Arvind>"
+            }
+        ]
+    },
+    {
+        "id": "2fa2a87d-36f9-463d-8137-8c864309ba48",
+        "question": "Which author has more publications, the writer of 'Uplink HARQ for Cloud RAN via Separation of Control and Data Planes' or the author of 'Incremental Induction of Decision Rules from Dominance-based Rough Approximations'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/12/3337>",
+                "author2_dblp_uri": "<https://dblp.org/pid/82/4215>"
+            }
+        ]
+    },
+    {
+        "id": "0f838485-661a-4817-b1ca-d4a10c91687a",
+        "question": "Which author has more publications cited by count, the creator of 'Storing and analyzing viral sequences through data-driven Genomic Computing' or the writer of 'Querying the Semantic Web: A Formal Approach'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/c/StefanoCeri>",
+                "author2_dblp_uri": "<https://dblp.org/pid/h/IanHorrocks>"
+            }
+        ]
+    },
+    {
+        "id": "60cbf945-5740-4048-8b0f-248cd536ddbb",
+        "question": "Who has fewer worksCount, the author of 'Vision-Based Road-Following Using Proportional Navigation' or the author of 'How the market responds to dynamically inconsistent preferences'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/27/6040>",
+                "author2_dblp_uri": "<https://dblp.org/pid/19/11122>"
+            }
+        ]
+    },
+    {
+        "id": "dc137ca5-8bca-4f0e-be33-a996cc8983ef",
+        "question": "Who has more worksCount, the author of 'Making Sharing Pervasive: Ubiquitous Computing for Shared Note Taking' or the author of 'Correction to: Excavating AI: the politics of images in machine learning training sets'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/l/JamesALanday>",
+                "author2_dblp_uri": "<https://dblp.org/pid/79/2869>"
+            }
+        ]
+    },
+    {
+        "id": "32a569a3-c397-49f9-8d47-3e195dc0d1e8",
+        "question": "Whose affiliation has more publications cited by count, the author who published Efficient methods for broadcasting multi-slot messages with random access with capture or the creator of Investigating automatic decomposition for ASR in less represented languages?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/128/1814>",
+                "author2_dblp_uri": "<https://dblp.org/pid/14/2303>"
+            }
+        ]
+    },
+    {
+        "id": "f4cd7086-b2f5-4a07-99a9-d5019ae83233",
+        "question": "Which institute has a higher publications count, Allen Institute or University of Toronto?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/71/4603>",
+                "author2_dblp_uri": "<https://dblp.org/pid/08/2050>"
+            }
+        ]
+    },
+    {
+        "id": "eaeea1af-7408-493e-ad1e-9339465faafa",
+        "question": "In terms of citedByCount, who has a higher count, the author of Some New Results on Key Distribution Patterns and Broadcast Encryption or the author of Approximate Complex Polynomial Evaluation in Near Constant Work Per Point?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/s/DouglasRStinson>",
+                "author2_dblp_uri": "<https://dblp.org/pid/r/JohnHReif>"
+            }
+        ]
+    },
+    {
+        "id": "a23d5909-ddd7-4650-8fe5-e648e651a03e",
+        "question": "Whose hIndex is higher, the author of 'Computer science as a school subject' or the one who created MiniMAO: An imperative core language for studying aspect-oriented reasoning?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/j/SimonLPeytonJones>",
+                "author2_dblp_uri": "<https://dblp.org/pid/66/2755>"
+            }
+        ]
+    },
+    {
+        "id": "cbf7bf16-c3af-46b3-94e1-b3f27586478a",
+        "question": "Which author has more publications, the creator of General finite-dimensional risk-sensitive problems or the writer of Building Brains?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/24/2843>",
+                "author2_dblp_uri": "<https://dblp.org/pid/f/StephenBFurber>"
+            }
+        ]
+    },
+    {
+        "id": "9a13356b-811e-423d-a1e3-6c2afba0fd23",
+        "question": "When comparing the number of works, who has more publications, the author of 'Immigration course in computer science' or the researcher who published 'BabyJ: from object based to class based programming via types'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/93/5634>",
+                "author2_dblp_uri": "<https://dblp.org/pid/d/SophiaDrossopoulou>"
+            }
+        ]
+    },
+    {
+        "id": "4c296b98-3568-4a5f-b599-60bcd4aed668",
+        "question": "Which author has more publications, the writer of Superscalar Programming Models: A Perspective from Barcelona or Dynamic run-time HW/SW scheduling techniques for reconfigurable architectures creator?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/88/929>",
+                "author2_dblp_uri": "<https://dblp.org/pid/10/5365>"
+            }
+        ]
+    },
+    {
+        "id": "f9eb27e4-f688-43d5-abd1-98186a75170a",
+        "question": "When comparing the citedBy count of the author of 'Total variation for cyclic structures: Convex relaxation and efficient minimization' with the author of 'A New Level of Language Generation Technology: Capabilities and Possibilities', who has a higher count?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/c/DanielCremers>",
+                "author2_dblp_uri": "<https://dblp.org/pid/47/2454>"
+            }
+        ]
+    },
+    {
+        "id": "52aef672-240c-4d6d-b9bf-03dc4e16debe",
+        "question": "Who has more works, a researcher with the publication title 'Visualizing the Future' or a researcher with the publication title 'Some Applications of Supercompact Extender based Forcings to HOD'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/80/2990>",
+                "author2_dblp_uri": "<https://dblp.org/pid/39/891>"
+            }
+        ]
+    },
+    {
+        "id": "ec7423e6-c4ca-4329-863b-6bc353f18259",
+        "question": "When comparing the citedBy count of the creators of 'Multiscale Adaptive Representation of Signals: I. The Basic Framework' and 'New stability conditions for semilinear diffusion systems with time-delays', who has a higher count?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/06/9390>",
+                "author2_dblp_uri": "<https://dblp.org/pid/15/6126>"
+            }
+        ]
+    },
+    {
+        "id": "6b5a855b-6ead-403b-952e-844a83a99da7",
+        "question": "Which author has a higher hIndex, the author of 'Business Model Innovation and the Rise of Technology Giants' or the author of 'Streaming String Transducers'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/86/1689>",
+                "author2_dblp_uri": "<https://dblp.org/pid/a/RAlur>"
+            }
+        ]
+    },
+    {
+        "id": "7da7b0ba-e3ff-4a43-a0af-6cf9dc618a52",
+        "question": "In terms of twoYearMeanCitedness, whose value is higher, the creator of 'Pseudodihedral Potential of Protein Residues and the Prediction of Folding' or the author of 'Heterogeneous media events processing systems'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/j/RameshJain>",
+                "author2_dblp_uri": "<https://dblp.org/pid/54/2880>"
+            }
+        ]
+    },
+    {
+        "id": "11a7421d-d70f-42db-991d-80d9c94c3595",
+        "question": "Which author has more publications, the author who wrote 'Functional Specification of Communicating Systems' or the one who conducted Experimental characterization of multi-hop communications in vehicular ad hoc network?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/b/ManfredBroy>",
+                "author2_dblp_uri": "<https://dblp.org/pid/m/PrasantMohapatra>"
+            }
+        ]
+    },
+    {
+        "id": "cda7cc70-cc4d-4849-af1a-0bcfc4e4a137",
+        "question": "Which author has a higher hIndex, Dina Katabi or Alex Mogilner?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/k/DinaKatabi>",
+                "author2_dblp_uri": "<https://dblp.org/pid/155/2862>"
+            }
+        ]
+    },
+    {
+        "id": "35f72a76-cbcd-4ee8-878c-297d49a96141",
+        "question": "In terms of citedByCount, who is more cited, the author of 'Randomized Fully-Scalable BSP Techniques for Multi-Searching and Convex Hull Construction' or the author of 'Distributed artificial intelligence for group decision support : Integration of problem solving, coordination, and learning'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/g/MichaelTGoodrich>",
+                "author2_dblp_uri": "<https://dblp.org/pid/57/2926>"
+            }
+        ]
+    },
+    {
+        "id": "e76d7580-4044-458b-b250-d3d7a67b22f7",
+        "question": "In terms of i10Index, who has a higher score, the author of 'Isotropic Differential Geometry in Graph Spaces' or the author of 'On Split Realizations of Response Maps over Rings'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/48/5115>",
+                "author2_dblp_uri": "<https://dblp.org/pid/38/4571>"
+            }
+        ]
+    },
+    {
+        "id": "9a5e1ad6-5cad-4810-b146-7d26a0d01365",
+        "question": "Whose institute has more publications cited by count, the author of 'The impact of bone microstructure on the field distribution of electrostimulative implants' or the author affiliated with KTH Royal Institute of Technology?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/05/11399>",
+                "author2_dblp_uri": "<https://dblp.org/pid/81/3323>"
+            }
+        ]
+    },
+    {
+        "id": "a5170d6f-8812-41a7-b628-febd13374f31",
+        "question": "Which author has more works, the writer of 'Communication-inspired sensing' or the one behind 'Avoiding Data Overfitting in Scientific Discovery: Experiments in Functional Genomics'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/52/6918-1>",
+                "author2_dblp_uri": "<https://dblp.org/pid/l/NadaLavrac>"
+            }
+        ]
+    },
+    {
+        "id": "46a9d97d-2b5b-4587-bb39-b55193635576",
+        "question": "In terms of worksCount, who has more publications, the author of 'Translating Polygons with Applications to Hidden Surface Removal' or the author of 'Beyond Geovisualization'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/b/MarkdeBerg>",
+                "author2_dblp_uri": "<https://dblp.org/pid/56/3402>"
+            }
+        ]
+    },
+    {
+        "id": "ea0d8c4d-2409-4199-9449-fe39848e2a91",
+        "question": "Who has a higher hIndex, the creator of 'A Parallel Algorithm for the Arbitrary Rotation of Digitized Images Using Process-and-Data-Decomposition Approach' or the author of 'A Practical Approach for Routing and Wavelength Assignment in Large Wavelength-Routed Optical Networks'?",
+        "author_dblp_uri": [
+            {
+                "author1_dblp_uri": "<https://dblp.org/pid/86/3964>",
+                "author2_dblp_uri": "<https://dblp.org/pid/a/HRArabnia>"
+            }
+        ]
+    }
+]

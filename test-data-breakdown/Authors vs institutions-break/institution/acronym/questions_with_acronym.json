@@ -1,0 +1,74 @@
+[
+    {
+        "id": "56065bd4-f7c6-4dae-90cf-22e5d7271a15",
+        "question": "What is the short name of the institute of the Chaotic Compilation: A (Statistical) Cloak for a Secret Computer article author?",
+        "author_dblp_uri": "<https://dblp.org/pid/b/JonathanPBowen>",
+        "key": "acronym"
+    },
+    {
+        "id": "de7b7c85-66d8-496e-a34d-c1c3a4fe4f21",
+        "question": "What is the short name of the academic institution in Illinois where Tarek F. Abdelzaher's publications are associated with?",
+        "author_dblp_uri": "<https://dblp.org/pid/a/TarekFAbdelzaher>",
+        "key": "acronym"
+    },
+    {
+        "id": "2fc7bd22-28c2-49da-aab5-0d22d16e9a2e",
+        "question": "What is the short name of the institute of the author who published the article 'Symbolic Reasoning with Weighted and Normalized Decision Diagrams'?",
+        "author_dblp_uri": "<https://dblp.org/pid/b/ChristelBaier>",
+        "key": "acronym"
+    },
+    {
+        "id": "d3527fca-0ba0-4a7a-95ec-27e3484336e9",
+        "question": "What is the short name of the institute of the Explicit Namespaces article author?",
+        "author_dblp_uri": "<https://dblp.org/pid/n/ONierstrasz>",
+        "key": "acronym"
+    },
+    {
+        "id": "918e53c7-c5f3-4b8d-bf6a-5fd19363f7cb",
+        "question": "What is the short name of the academic institution associated with the publication 'Eigenvalue analysis of the SIMPLE preconditioning for incompressible flow'?",
+        "author_dblp_uri": "<https://dblp.org/pid/128/5115>",
+        "key": "acronym"
+    },
+    {
+        "id": "9cf3daf8-099f-4774-b378-fd9a4885a130",
+        "question": "What is the short name of the institute of the author who published A Compositional Framework for Real-Time Guarantees?",
+        "author_dblp_uri": "<https://dblp.org/pid/l/InsupLee>",
+        "key": "acronym"
+    },
+    {
+        "id": "be851f6a-7434-4eda-a944-84a72c4714c7",
+        "question": "What is the short name of the institute of the author of the paper 'Entropy Coding in HEVC'?",
+        "author_dblp_uri": "<https://dblp.org/pid/49/3209>",
+        "key": "acronym"
+    },
+    {
+        "id": "f323178d-e90a-487e-8beb-0d7a53a6edd9",
+        "question": "What is the short name of the institute of the author who published the article 'Understanding the Expressive Power and Mechanisms of Transformer for Sequence Modeling'?",
+        "author_dblp_uri": "<https://dblp.org/pid/06/9390>",
+        "key": "acronym"
+    },
+    {
+        "id": "d78351ce-7a56-4fca-8347-4b07aa8384a9",
+        "question": "What is the short name of the institute of the IV-GNN : interval valued data handling using graph neural network article author?",
+        "author_dblp_uri": "<https://dblp.org/pid/b/SanghamitraBandyopadhyay>",
+        "key": "acronym"
+    },
+    {
+        "id": "85ca2c6b-e622-4ffc-aa9f-ad1d37979c12",
+        "question": "What is the short name of the institute of the author who published a note on the Consecutive Ones Submatrix problem?",
+        "author_dblp_uri": "<https://dblp.org/pid/334/4488>",
+        "key": "acronym"
+    },
+    {
+        "id": "9eece0d9-6e0f-4211-9d0d-03b57f8c9f08",
+        "question": "What is the short name of the institute of the Fine-grain CAM-tag cache resizing using miss tags article author?",
+        "author_dblp_uri": "<https://dblp.org/pid/a/KrsteAsanovic>",
+        "key": "acronym"
+    },
+    {
+        "id": "00cadc0c-e918-48b8-b4eb-1db8e2e592de",
+        "question": "What is the short name of the institute of the author who published Wireless Time-Triggered Real-Time Communication?",
+        "author_dblp_uri": "<https://dblp.org/pid/51/75>",
+        "key": "acronym"
+    }
+]

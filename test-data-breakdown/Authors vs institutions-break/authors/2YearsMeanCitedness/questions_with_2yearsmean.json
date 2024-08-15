@@ -1,0 +1,74 @@
+[
+    {
+        "id": "8dd6ff7e-6902-4908-8421-e0b3af73261d",
+        "question": "What is the average two years citedness of the researcher who published in 'Advanced Visual Interfaces' in 2000?",
+        "author_dblp_uri": "<https://dblp.org/pid/00/2489>",
+        "key": "2YrMeanCitedness"
+    },
+    {
+        "id": "765d98e0-5ac8-4b3a-9d41-63f75e71e88b",
+        "question": "What is the average two years citedness of the writer of Workload Adaptive Shared Memory Management for High Performance Network I/O in Virtualized Cloud?",
+        "author_dblp_uri": "<https://dblp.org/pid/l/LingLiu>",
+        "key": "2YrMeanCitedness"
+    },
+    {
+        "id": "421ae952-0665-4413-973b-fc9b2dcc8d99",
+        "question": "What is the average two years citedness of the author of Software Design Patterns for Information Visualization?",
+        "author_dblp_uri": "<https://dblp.org/pid/64/2431>",
+        "key": "2YrMeanCitedness"
+    },
+    {
+        "id": "1b2139f7-7a96-4956-a173-331f7ea8387b",
+        "question": "What is the average two years citedness of the author of 'Influence Plots for LASSO'?",
+        "author_dblp_uri": "<https://dblp.org/pid/95/2223>",
+        "key": "2YrMeanCitedness"
+    },
+    {
+        "id": "e9428e13-96c8-40be-8bec-85fa357d58eb",
+        "question": "What is the average two years citedness of the author of the publication 'Computing Characterizations of Drugs for Ion Channels and Receptors Using Markov Models' in Lecture Notes in Computational Science and Engineering in 2016?",
+        "author_dblp_uri": "<https://dblp.org/pid/t/AslakTveito>",
+        "key": "2YrMeanCitedness"
+    },
+    {
+        "id": "712e03d3-0da1-40e9-8fd0-87274e2ab805",
+        "question": "What is the average two years citedness of the contributor of Support vector machines and learning about time?",
+        "author_dblp_uri": "<https://dblp.org/pid/m/KatharinaMorik>",
+        "key": "2YrMeanCitedness"
+    },
+    {
+        "id": "f045cfcd-67c5-497b-977f-f5ab95265d76",
+        "question": "What is the average two years citedness of the writer of Equation-free modeling?",
+        "author_dblp_uri": "<https://dblp.org/pid/47/6418>",
+        "key": "2YrMeanCitedness"
+    },
+    {
+        "id": "67a48d16-c10f-4090-9664-f5af98f839df",
+        "question": "What is the average two years citedness of the author of the paper 'Mesoscopic Model of Actin-Based Propulsion'?",
+        "author_dblp_uri": "<https://dblp.org/pid/155/2862>",
+        "key": "2YrMeanCitedness"
+    },
+    {
+        "id": "a08ac4c1-c31f-4927-9944-44ad134f7911",
+        "question": "What is the average two years citedness of the author of The Complexity Ecology of Parameters: An Illustration Using Bounded Max Leaf Number?",
+        "author_dblp_uri": "<https://dblp.org/pid/f/MichaelRFellows>",
+        "key": "2YrMeanCitedness"
+    },
+    {
+        "id": "52ebde2a-ccba-4798-9c62-2f95c529eba7",
+        "question": "What is the average two years citedness of the author who published 'Task orientation in question answering' at SIGIR 2002 with Vanessa Murdock from Amazon Research, USA?",
+        "author_dblp_uri": "<https://dblp.org/pid/c/WBruceCroft>",
+        "key": "2YrMeanCitedness"
+    },
+    {
+        "id": "d3296d9d-71e5-4ef9-a0cd-e6c2b199a281",
+        "question": "What is the average two years citedness of the author of the paper 'Wearable Devices: New Ways to Manage Information'?",
+        "author_dblp_uri": "<https://dblp.org/pid/s/ThadStarner>",
+        "key": "2YrMeanCitedness"
+    },
+    {
+        "id": "afcf72e0-ddef-4028-a5d2-914a4543fbe2",
+        "question": "What is the average two years citedness of the author who worked at the University of Virginia and published 'The tactical Tomahawk conundrum: designing decision support systems for revolutionary domains' in SMC in 2003?",
+        "author_dblp_uri": "<https://dblp.org/pid/95/4954>",
+        "key": "2YrMeanCitedness"
+    }
+]
